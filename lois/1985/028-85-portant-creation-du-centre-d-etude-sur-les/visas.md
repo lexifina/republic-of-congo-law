@@ -1,0 +1,4 @@
+# Visas
+
+CONGO ____________________________________________________ LOI No. 028/85 DU 19/7/1985 Portant Création du Centre d'Etude sur les Ressources Végetales (CERVE) __________________________ L'ASSEMBLEE NATIONALE POPULAIRE A DELIBERE ET ADOPTE;
+LE PRESIDENT DU COMITE CENTRAL DU PARTI CONGOLAIS DU TRAVAIL, PRESIDENT DE LA REPUBLIQUE, CHEF DU GOUVERNEMENT, PROMULGUE LA LOI DONT LA TENEUR SUIT:
