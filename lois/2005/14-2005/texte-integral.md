@@ -1,0 +1,4 @@
+# Loi n° 14-2005 du 14 septembre 2005
+
+Loi n014-2005 du 14 septembre autorisant la ratification de la convention de l'Union Afrtcatne sur la Prévention et la lutte contre la corruption, L'Assemblée nationale et le sénat ont délibéré et adopté Le président de la République promulgue la loi dont la teneur suit Article premier : Est autorisée la ratification. par le Pré Ident de la République, de la convention de l'union Afrtcalne sur la prévention et la lutte contre la corruption dont le texte est annexé à la pré ente lot. Article : La présente loi sera publiée au Journal officielet exécutée comme loi de l'Etat.
+Fait à Brazzaville, le 14 septembre 2005 Par le Président de la République, Denis SASSOU GUESO, Le mtnistre d'Etat, mtnlstre des affatres étrangères et de la francophonie, Rodolphe ADADA.
