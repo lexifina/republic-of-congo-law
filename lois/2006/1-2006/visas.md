@@ -1,0 +1,19 @@
+# Visas
+
+Journal Officiel de la Rëpubllque du Congo Edition Spéciale W 06 - 2006 Ml ISTERE DES HYDROCARBURES Loi nOl-2006 du 30 mars portant approbation de l'avenant nOl au contrat de partage de production des permis Marine VI et VII.
+L'ASSEMBLEE NATIONALE ET LE SENAT ONT DEUBERE ETADOPTE:
+LE PRESIDENT DE LA REPUBUQUE PROMULGUE LA WI DONT LA TENEUR SUIT:
+Article premier:
+Est approuvé l'avenant n" l du 19 août 2005 au contrat de partage de production du 23 mai 1994 entre la République du Congo, la société ENI Congo SA et la société nationale des pétroles du Congo dont le texte est annexé à la présente loi.
+Article : La présente loi sera publlée au Journal Officielet exécutée comme loi de l'Etat.
+Fait à Brazzaville, le 30 mars 2006 Par le Président de la République.
+Denis SASSOUN'GUESSO Le ministre d'Etat, mini tre des hydrocarbures, Jean-Baptiste TATILOUTARD Le ministre de l'économie, des finances et du budget.
+Pacifique ISSOIBEKA AVENANT N° 1 AU CONTRAT DE PARTAGE DE PRODUCTION signé le 23 mai 1994 en application de l'Avenant n° 6 à la Convention d'Etablissement ENTRE LA REPUBUQUE DU CONGO (Ci-après désignée le "Congo"), repré entée par Monsieur Jean-Baptiste TATI WUTARD, ministre d'Etat. ministre des hydrocarbures, d'une part ET Eni Congo (ci-après désignée "Eni Congo"). antérieurement dénommée 'Agip Recherches Congo' puis 1 Aglp Congo " société anonyme dont le siège social est situé à Pointe Noire, République du Congo, représentée par Mon ieur Luigi LUSU- R1ELLO. Directeur Général, La Société Nationale des Pétroles du Congo (ci-après désignée "SNPC"),établissement public à caractère industriel et commercial, représentée par Monsieur Denis Auguste Marie GOKANA. Président Directeur Général, (Eni Congo et SNPC sont ci-après désignées "le Contracteur").
+d'autre part, ETANT PREALABLEMENT EXPOSE QUE :
+Eni Congo exerce ses activités pétrolières au Congo dans le cadre de la Convention d'Etablissement Ignée avec le Congo le Il novembre 1968, telle qu'amendée par ses avenants n Ol à 8 ainsi que par l'accord du 16 mars 1989, l'ensemble désigné etaprès la «. Convention '. En application de l'avenant n06 à la Convention, le Congo et le Contracteur ont négocié et arrêté les modalités de leur coopération dans le cadre d'un contrat de partage de production signé le 23 mai 1994 ci-après le 1 Contrat -l, aux fins de la mise en valeur :
+(1) des Permis Marine VIet Marine VII,du Permis d'exploitation de Kitlna, des Permis d'exploitation ultérieurs pouvant découler des Permis Marine VI et Marine VII.et (Ii)des Permis de recherche qui seraient ultérieurement attribués à Eni Congo dans le cadre de l'avenant n° 6 à la Convention susvisée et des Permis d'exploitation en découlant.
+Le Congo et le Contracteur souhaitent renforcer les dlspostttons existantes du Contrat en matière de constitution et d'évaluation des provisions pour remise en état des sites.
+IL A ETE CONVENU CE QUI SUIT:
+ARTICLE 1 - OBJET DU PRESENT AVENANT Le présent avenant a pour objet, selon les termes et conditions ci-après, de définir de nouvelles dispositions en matière de constitution et d'évaluation technique et financtère des provisions pour remise en état des sites passées par le Contracteur en application du Contrat.
+Toutes les dispositions du Contrat qui ne sont pas modifiées ou complétées par le présent avenant demeurent applicables en l'état.
+Les termes dèflnis utilisés dans le présent avenant ont la signification qui leur est donnée dans le Contrat, sauf modification ou complément apporté par le présent avenant. A cet égard, le terme « Contracteur , utilisé dans le présent avenant n° 1 s'entend des seules sociétés ayant adhéré audit Avenant, c'est à dire, au jour de son entrée en vigueur, Eni Congo et SNPC. La ou les autres entités du Contracteur non signataires du présent avenant n° 1 pourront y adhérer à tout moment par notification formelle adressée au Congo et aux entités signataires.
