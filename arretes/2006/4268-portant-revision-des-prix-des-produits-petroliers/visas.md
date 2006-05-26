@@ -1,0 +1,7 @@
+# Visas
+
+Journal Offlctel de la Republique du Congo N° 25 - 2006 .Arr!t6 n° 4268 du 26 mai 2006 portant revision des prtx des produits petroliers d'avitaillement maritime et fluvial et des aeronefs de transport international.
+Le ministre d'Etat, ministre des hydrocarbures, Le ministre de l'economie, des finances et du budget, Le ministre du commerce, de la consommation et des approvisionnements, Vu la Constitution ;
+Vu la loin° 6-2001 du 19 octobre 2001 organisant les activites de rafflnage, d'importation, d'exportation, de transit, de reexportation, de stockage, de transport massif, de distribution et commercialisation des hydrocarbures et des produits derives d'hydrocarbures;
+Vu l'ordonnance n° 3-2002 du ler mars 2002 portant harmonisation technique de certaines dispositions de la loin° 6-2001 du 19 octobre 2001 organisant les activites de rafflnage, d'importation, d'exportation, de transit, de reexportation, de stockage, de transport massif, de distribution et commercialisation des hydrocarbures et des produits derives d'hydrocarbures; Vu le decret n° 2005-669 du 30 decembre 2005 flxant la classification des produits petroliers et la methodologie de determination des prtx des produits petroliers; Vu le decret n° 2002-341 du 18 aout 2002 tel que rectifie par les decrets n°s 2002-364 du 18 novembre 2002 et 2003-94 du 7 juillet 2003 portant nomination des membres du Gouvernement.
+Arretent :
