@@ -1,0 +1,7 @@
+# Visas
+
+Du l" au 7 Juliet 2006 Journal Offtciel de la Republique du Congo I - PARTIE OFFICIELLE A - ACTES DE PORTEE GENERALE MINISTERE DES BYDROCARBURES Arr6t6 n° 4267 du 26 mai 2006 portant revision des prix des produits petroliers soumis a la structure des prix.
+Le ministre d'Etat, ministre des hydrocarbures, Le ministre de l'economie, des finances et du budget, Le ministre du commerce, de la consommation et des approvisionnements, Vu la Constitution ;
+Vu la loin° 6-2001 du 19 octobre 2001 organisant les activites de raffinage, d'importation, d'exportation, de transit, de reexportation, de stockage, de transport massif, de distribution et commercialisation des hydrocarbures et . des produits derives d'hydrocarbures;
+Vu l'ordonnance n° 3-2002 du ler mars 2002 portant harmonisation technique de certaines dispositions de la loin° 6-2001 du 19 octobre 2001 organisant les activites de raffinage, d'importation, d'exportation, de transit, de reexportation, de stockage, de transport massif, de distribution et commercialisation des hydrocarbures et des produits derives d'hydrocarbures; Vu le decret n° 2005-669 du 30 decembre 2005 flxant la classification des produits petroliers et la methodologie de determination des prix des produits petroliers ; Vu le decret n° 2002-341 du 18 aout 2002 tel que rectifte par les decrets n°s 2002-364 du18 novembre 2002 et 2003-94 du 7 juillet 2003 portant nomination des membres du Gouvemement.
+Arretent :
