@@ -1,0 +1,17 @@
+# Décret n°2007-157 du 14 février 2007 portant modification de l'article 2 du décret n°96-14 du 11 janvier 1996 et reversement dans le corps des inspecteurs d'Etat des agents de la catégorie I, échelle 1, en service à l'inspection générale d'Etat
+
+PRESIDENCE DE LA REPUBLIG:<UE REPUBLIQUE DU C0NGO Unité*Travail*Progrès SECRETARIAT GENERAL DU GOUVE~MENT --------- ----~.,,-_./ .--~-~ ....--_....- Décret n° 2OO7-i157 du ~4 février --------------------------------- portant modification de l'article 2 du décret n° 96 -14 du 11 janvier et reversement dans le corps des inspecteurs généraux d'Etat des agents de la catégorie I, échelle 1, en service à l'inspection générale d'Etat LE PRESIDENT DE LA REPUBLIQUE, Vu la Constitution;
+Vu la loi n° 021/89 du 14 novembre portant refonte du statut général de la fonction publique;
+Vu le décret nO99-50 du 3 avril 1999 portant versement des agents civils de l'Etat dans la classification prévue par la loi n° 21/89 du 14 novembre 1989 portant refonte du statut général de la fonction publique;
+Vu le décret n° 96-14 du 11 janvier 1996 portant création du corps des inspecteurs généraux d'Etat;
+Vu le décret n° 2006-493 du 3 août 2006 portant réorganisation de l'inspection générale d'Etat;
+Vu le décret n02005
+- 02 du 7 janvier tel que rectifié par le décret n02005-83 du 2 février 2005 portant nomination des membres du Gouvernement.
+DECRETE Article premier:
+Les agents de la catégorie I. échelle 1 en service à l'inspection générale d'Etat à la date de signature du présent décret, sont reversés dans le corps des inspecteurs généraux d'Etat, conformément aux dispositions des articles 14 et 15 du décret nO96-14 du 11janvier 1996 susvisé.
+Article 2 : Les agents en service à l'inspection générale d'Etat appartenant à la catégorie L, échelles 1 et 2, remplissant les conditions exigées par les dispositions de l'orticle 5 du décret n° 96-14 du 11 janvier 1996 et qui auraient bénéficié d'un reclassement, d'une révision de situation administrative, d'une reconstitution de carrière ou de tout autre promotion avant la date de signature du présent décret, peuvent obtenir la régularisation de leur situation administrative~ Article 3:
+Les agents désignés aux articles premier et 2 du présent décret, nommés conformément aux dispositions du décret n° 96-14 du 11janvier 1996, sont reversés dans la grille indiciaire ci-après, selon leur grade et leur échelon:
+INSPECTEUR GENERAL D'ETAT Echelon --T Indice lOè 7.000 9è 6.700 8è 6.400 7è 6.100 Hors hiérarchie 6è 5.800 5è 5.500 4è 5.200 3è 4.900 2è 4.600 1er 4.300 INSPECTEUR D'ETAT Echelon Indice 4.150 1er grade 4.000 3.850 3.700 2ème grade 3.550 3.400 3.250 ._-- 3.100 3ème grade 2.950 .__ ..- 2.800 ~ stagiaire 2.650 -_._--- Article 4 : L'ancienneté d'échelon, acquise à la date du reclassement, est conservée dans le nouvel échelon indiciaire.
+Article 5 : La valeur du point indiciaire applicable à la présente grille, est fixée à 160.
+Article 6:
+Le ministre de l'économie, des finances et du budget, le ministre d'Etat, ministre de la fonction publique et de la reforme de l'Etat, sont chargés chacun en ce qui le concerne de l'exécution du présent décret qui abroge toutes dispositions antérieures contraires, sera enregistré, publié au Journal Officiel et communiqué partout où besoin sera. /- 2007-157 ~4 février 2007 Fait à Brazzaville, le Denis SASSOU N'GUESSO Le ministre d'Etat, ministre de la fonction p blifue et de la réforme de l'Etat, J Le ministre de l'économie, des finances et du budget, / .., ,J
