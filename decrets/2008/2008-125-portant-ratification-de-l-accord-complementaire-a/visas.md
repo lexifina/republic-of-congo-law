@@ -1,0 +1,5 @@
+# Visas
+
+,....
+MINISTERE DES AFFAIRES ETRANGERES ET DE LA FRANCOPHONIE Décret n° 2008-125 du 23 juin 2008 portant ratification de l'accord complémentaire à l'accord de coopération économique, scientifique, technique et culturelle entre le Gouvernement de la République du Congo et le Gouvernement de la République Fédérative du Brésil portant sur un arrangement spécial de coopération économique, financière et commerciale, négocié et signé à Brasilia, le 1er aVTiI2008. RépubUque du Congo Le Président de la République, Vu la Constitution ;
+Vu la loi n° 11-2008 du 23 juin 2008 autorisant la ratification de l'accord complémentaire à l'accord de coopération économique, SCientifique, technique et culturelle entre le Gouvernement de la République du Congo et le Gouvernement de la République Fédérative du Brésil portant sur un arrangement spécial de coopération économique, financière et commerciale, négocié et signé à Brasilia, le 1er avrtl 2008 ; Vu le décret n? 2007-615 du 30 décembre 2007 portant nomination des membres du Gouvernement. Décrète:
