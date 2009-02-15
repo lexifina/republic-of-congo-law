@@ -1,0 +1,45 @@
+# Visas
+
+De mars 2009 Journal offlclel de la République du Congo EXPOSÉ DE MOTIFS Le budget de l'Etat exercice 2009, s'inscrit dans le cadre de la poursuite de l'exécution concomitante, d'une part, de la dernière tranche de la mise en œuvre du projet de société " la nouvelle espérance " et, d'autre part, du programme économique et financier appuyé par la facilité pour la réduction de la pauvreté et la croissance (FRPC)récemment approuvé par le Conseil d'administration du Fonds Monétaire International (FMI). et dont la mise en œuvre satisfaisante permettrait d'atteindre le point d'achèvement de l'Initiative des pays pauvres très endettés (IPPTE) au milieu de l'année 2009, avec comme principale retombée l'annulation complète de la dette extérieure du pays et l'entrée de capitaux sous forme de dons.
+Le budget 2009 est élaboré dans un environnement économique international confronté à une crise financière inégalée dont les déclencheurs, remontant à la fin de l'année 2007, ont provoqué un profond choc subi par l'économie mondiale.
+- Au plan international :
+· les prévisions de croissance économique mondiale publiées par le FMI ont été révisées à la baisse ; les activités économiques mondiales ne progresseront que de 3% en 2009 contre 3,9% en 2008 et 5% enregistré en 2007 ;
+· la croissance du commerce mondial reviendrait de 4,9% en 2008 à 4,1% en 2009, contre une hausse de 7,2% en 2007;
+· J'inflation reculerait dans les pays développés de 3,6% en 2008 à 2% en 2009, compte tenu du repli des prix des produits de base et des effets de la contraction des activités économiques.
+Dans ce contexte, si dans la Zone Euro. la croissance économique se contracterait à 0,2% en 2009 contre 1,3% en 2008, et aux Etats-Unis de 1.6% en 2008 à 0,1% en 2009, en revanche, des niveaux de croissance économique plus élevés dans les pays en développement (notamment la Chine dont le taux de croissance du PIB passerait de 10,7% en 2008 à 10,1% en 2009) permettront de soutenir l'économie mondiale.
+- Au niveau africain La croissance macroéconomique au niveau de l'Afrique subsahartenne, se stabiliserait en passant de 5,9% en 2008 à 6% en 2009 contre 6,3% en 2007. Cette tendance serait justifiée par la fermeté des prix des matières premières qui induit une plus grande incitation à l'augmentation de la production.
+- Au niveau sous-régional CEMAC/CEEAC Les statistiques de la Banque des Etats de l'Afrique Centrale (BEAC)projettent un recul des activités économiques en 2009 à 4,6% contre 5,8% en 2008 en raison principalement de la contraction de la production pétrolière, alors que les activités non pétrolières croîtront au même taux de 4,5% en 2008 et en 2009. Les tensions inflationnistes seront contenues à 3,1% en 2009 alors qu'elles se situent à 4,2% en 2008. Pour atténuer les effets de la crise internationale sur les économies de la Zone CEMAC,la BEAC a fait des recommandations aux Etats membres parmi lesquelles :
+· poursuivre les réformes économiques structurelles pour réduire le coût des facteurs de production, concentrer les efforts sur des secteurs porteurs de croissance économique et améliorer le cadre réglementaire des activités économiques ;
+· accélérer l'intégration régionale par l'instauration effective de la libre circulation des biens, des personnes et des capitaux. Journal officiel de la République du Congo Edition Spéciale W 1-2009
+- Au plan national La situation économique nationale en 2008 a été fortement influencée par l'environnement international, puisqu'il subit le effets du marché pétrolier international, de l'augmentation des prix des produits de base et, enfin, de la situation économique dans les pays partenaires économiques du Congo. Ainsi, le prix du baril de pétrole qui constitue la principale ressource du pays, est tombé aux niveaux les plus bas depuis l'année 2007, avec une perte des cours de pétrole de 60% par rapport à son niveau de juillet 2008.
+Toutefois, suivant la dynamique de la zone CEMAC, pour 2009, les principaux instituts de prévision économique dont le FMI et la BEAC, projettent que:
+- le Congo devrait enregistrer le plus fort taux de croissance économique de la Zone CEMAC.Celui-ci serait de l'ordre de 9,6% en 2009 contre un taux de croissance de 7,6% attendu en 2008 et une moyenne de la CEMACde 4,6% en 2009.
+Cette croissance sera alimentée tant par un niveau assez soutenu de la production pétrolière que par la progression des activités non pétrolières qui est projetée à 7,8% en 2009 contre 7% en 2008.
+- le niveau assez élevé de l'inflation par rapport à la norme sous régionale proviendra essentiellement de la pression de la demande publique, des prix des produits pétroliers et des coûts de transport. n s'établit en glissement annuel à 4% en 2009 contre 4,5% en 2008.
+- sur le plan monétaire, en dépit de la faible progression des crédits à l'économie projetée en 2009, le Congo devrait enregistrer une des plus fortes augmentations de ses avoirs en devises dans un contexte de surplus du solde extérieur courant à 9% du PIE en 2009.
+- le niveau du service de la dette extérieure se situerait à 5% du PIE en 2009, traduisant ainsi les efforts de remboursement consentis par le pays au bénéfice des différents accords d'allègement de la dette avec les partenaires extérieurs.
+De même, le Gouvernement poursuivra avec détermination la mise en œuvre du plan d'apurement des arriérés intérieurs prévu pour être bouclé en 2010.
+Tenant compte de ce contexte, l'essentiel des ressources du budget 2009 sera orienté vers le financement des actions stratégiques retenues dans le document de stratégie de réduction de la pauvreté qui s'articule autour des cinq priorttés ciaprès:
+- l'amélioration de la Gouvernance et la consolidation de la paix et de la sécurité;
+- la promotion de la croissance économique et de la stabilité macroéconomique ;
+- l'amélioration de l'accès des populations aux services sociaux de base (santé, éducation, eau potable et électricité) ;
+- la mise à niveau des infrastructures économiques;
+- la relance de la production agricole.
+Dans le cadre de la politique budgétaire, les actions principales du Gouvernement pour l'année 2009 sont les suivantes:
+- la mobilisation des recettes budgétaires, condition première et essentielle pour soutenir le programme ambitieux des dépenses du gouvernement;
+- la poursuite des grands travaux qui intègrent aussi bien la municipalisation de Brazzaville que d'autres programmes sectoriels liés à la construction et à la réhabilitation des infrastructures diverses dans le pays ;
+- la poursuite des actions à engager dans le cadre de la lutte contre la pauvreté dans les différents secteurs;
+- la consolidation du processus démocratique à travers les élections présidentielles de 2009.
+- En matière de recettes, le dispositif fiscal et douanier mis en place et les allégements actuellement en vigueur, devront faciliter toutes les transactions des agents économiques et accroître le volume des activités, l'assiette fiscale et par conséquent le niveau des recettes non pétrolières attendues au cours de l'année 2009. Cet élément conjoncturel devrait être complété par une rationalisation des procédures de recouvrement des recettes de l'Etat.
+Demars Journal officte! de la République du Congo
+- En matière de dépenses, le Gouvernement mettra en œuvre le plan d'action gouvernemental de réformes des finances publiques. Ce plan met l'accent sur le renforcement de la qualité de la dépense publique afin que les ressources du pays oient utilisées plus efficacement. A cet effet. les réformes déjà engagées, allant de la refonte du Code des marchés publics, à la réforme du système de gestion des investissements publics et à la rationalisation et simplification de la chaîne de la dépense, seront poursuivies.
+Ainsi, le budget de l'Etat. exercice 2009, est arrêté en recettes et en dépenses à la somme de mille quatre cent deux milliards huit cent trente neuf millions (1.402.839.000.000) de francs CFA contre deux mille sept cent cinquante six milliards neuf cent sept millions (2.756.907.000.000) de francs CFA du budget de l'Etat exercice 2008 réajusté.
+Ce budget qui renferme des financements extérieurs à hauteur de 42.000.000.000 de francs CFA contre 55.000.000.000 de francs CFA au budget 2008 réajusté, est reparti comme suit:
+- Fonctionnement:
+888 389 000 000 FCFA contre 913.323.000.000 FCFA au budget 2008 réajusté
+- Investissement:
+514450000000 FCFA contre 455.000.000.000 FCFA au budget 2008 réajusté Journal officiel de la République du Congo Edition Spéciale N° 1-2009
+- LOI- Loi n° 1 - 2009 du 15 fhrier portant loi de finances pour l'année 2009 L'Assemblée Nationale et le Sénat ont délibéré et adopté ;
+Le Président de la République promulgue la loi dont la teneur suit:
+PREMIERE PARTIE:
+DE LA DETERMINATION DES RESSOURCES ET DES CHARGES ET DES CONDITIONS GENERALES DE L'EQUILIBRE FINANCIER TITRE i= . DES DISPOSITIONS RELATIVES AUX RESSOURCES, AUX CHARGES ET A L'EQUILIBRE FINANCIER Chapitre 1er: Des dispositions relatives aux ressources Paragraphe 1er : Des impôts et revenus autorisés
