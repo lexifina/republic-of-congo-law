@@ -1,0 +1,15 @@
+# Signatures
+
+Fait à Brazzaville, le 14 juin 2010 Denis SASSOU-N’GUESSO Par le Président de la République, Le ministre de la pêche et de l’aquaculture, Hellot Matson MAMPOUYA Le ministre des finances, du budget et du portefeuille public, Gilbert ONDONGO Loi n° 4-2010 du 14 juin 2010 portant protection de l’enfant en République du Congo L’Assemblée nationale et le Sénat ont délibéré et adopté ;
+Le Président de la République promulgue la loi dont la teneur suit :
+TITRE I : DISPOSITIONS GENERALES Article premier : Au sens de la présente loi, un enfant s’entend de tout être humain âgé de moins de dixhuit ans et qui n’a pas encore atteint l’âge de la majorité par disposition spéciale. Chapitre I : Des objectifs de la protection Article 2 : La présente loi vise la protection de l’enfant à travers la réalisation des objectifs suivants :
+a) assurer à l’enfant qui est inséré dans son milieu de vie, une protection prenant en compte sa vulnérabilité physique et psychologique ;
+b) mettre sur pied un mécanisme de protection qui garantit à l’enfant une meilleure connaissance et un meilleur respect des droits ;
+c) élever l’enfant dans le sens de l’identité nationale et de la citoyenneté, de la fidélité et de la loyauté au Congo, ainsi que dans le sentiment d’appartenance à un ensemble de valeurs positives de civilisation au niveau national, sous-régional, régional et mondial ;
+d) développer en lui le sens de la morale, du respect de ses parents, de son entourage familial, de la société et de la patrie ;
+e) donner à l’enfant une éducation imprégnée de culture humaniste conformément aux exigences des orientations éducatives scientifiques ;
+f) préparer l’enfant à une vie participative empreinte de valeurs d’équité, de tolérance, de justice et de paix ;
+g) inscrire les droits de l’enfant, notamment son droit à la protection, dans le contexte des grandes options de la politique nationale, qui font du respect des droits de la personne un élément indispensable au développement du potentiel humain de chaque citoyen, donc un facteur déterminant du développement national ;
+h) diffuser la culture des droits de l’enfant, faire connaître ses particularités intrinsèques en vue de garantir l’harmonie et l’équilibre de sa personnalité ;
+i) faire respecter et consolider les droits de l’enfant en tenant compte de son intérêt supérieur de manière à ce qu’il acquière les vertus de travail, de l’initiative, les valeurs de l’effort personnel, le sens de l’autoresponsabilité et de la responsabilité vis-à-vis du groupe familial et de la société et assurer, par les moyens appropriés, sa participation à tout ce qui le concerne.
+Chapitre II : Des principes généraux de la protection Article 3 : L’intérêt supérieur de l’enfant est sa considération primordiale dans toutes les mesures et décisions le concernant. Article 4 : Dans toutes les décisions prises à l’égard de l’enfant, son maintien au sein de la cellule familiale est primordial dans l’intérêt de son épanouissement harmonieux et pour consolider la responsabilité qui incombe aux parents ou à toute autre personne investie de sa garde. Journal Officiel de la République du Congo N° 24-2010
