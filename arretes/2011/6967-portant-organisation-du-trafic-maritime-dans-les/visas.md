@@ -1,0 +1,13 @@
+# Visas
+
+Journal officiel de la République du Congo Du jeudi 12 mai 2011 PARTIE OFFICIELLE
+- DECRETS ET ARRETES - A - TEXTES GENERAUX MINISTERE DES TRANSPORTS, DE L’AVIATION CIVILE ET DE LA MARINE MARCHANDE Arrêté n° 6967 du 3 mai 2011 portant organisation du trafic maritime dans les eaux maritimes et du chenal d’accès au port autonome de Pointe- Noire Le ministre délégué auprès du ministre d’Etat, ministre des transports, de l’aviation civile et de la marine marchande, chargé de la marine marchande, Vu la Constitution ;
+Vu le règlement 03/01-UEAC-088-CM-06 du 3 août 2001 portant adoption du code communautaire révisé de la marine marchande ; Vu l’ordonnance n° 14-78 du 11 avril 1978 ratifiant la convention internationale de 1974 pour la sauvegarde de la vie humaine en mer ainsi que le code international pour la sûreté des navires et des installations portuaires adopté le 12 décembre 2002 ; Vu la loi n° 6-83 du 27 janvier 1983 portant approbation de l’adhésion de la République Populaire du Congo à la convention internationale de 1973 pour la prévention de la pollution par les navires ;
+Vu la loi n° 11-83 du 27 janvier 1983 portant approbation de l’adhésion de la République Populaire du Congo à la convention sur le règlement international de 1972 pour prévenir les abordages en mer ;
+Vu la loi n° 18-2001 du 31 décembre 2001 autorisant la ratification de la convention internationale de 1969 sur le jaugeage des navires ;
+Vu la loi n° 3-2002 du 1er juillet 2002 déterminant les infractions et les sanctions dans le cadre des régimes disciplinaire et pénal de la marine marchande ; Vu la loi n° 12-2004 du 26 mars 2004 autorisant la ratification du protocole de 1978 relatif à la convention internationale de 1973 pour la prévention de la pollution par les navires ;
+Vu la loi n° 4-2008 du 30 janvier 2008 autorisant la ratification de la convention des Nations Unies sur le droit de la mer ;
+Vu le décret n° 99-94 du 2 juin 1999 portant attributions et organisation de la direction générale de la marine marchande ;
+Vu le décret n° 2009-335 du 15 septembre 2009 portant nomination des membres du Gouvernement ; Vu le décret n° 2009-389 du 13 octobre 2009 relatif aux attributions du ministre des transports, de l’aviation civile et de la marine marchande ; Vu le décret n° 2009-405 du 13 octobre 2009 relatif aux attributions déléguées au ministre délégué auprès du ministre d’Etat, ministre des transports, de l’aviation civile et de la marine marchande ;
+Vu le décret n° 2010-336 du 14 juin 2010 portant organisation du ministère des transports, de l’aviation civile et de la marine marchande ; Vu les réunions TOTAL & EP et le ministère délégué chargé de la marine marchande du 3 mars 2011 et du 8 avril 2011.
+Arrête :
