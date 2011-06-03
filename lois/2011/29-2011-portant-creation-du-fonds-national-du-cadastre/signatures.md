@@ -1,0 +1,15 @@
+# Signatures
+
+Fait à Brazzaville, le 3 juin 2011 Par le Président de la République, Denis SASSOU-N’GUESSO Le ministre des affaires foncières et du domaine public, Pierre MABIALA Le ministre des finances, du budget et du portefeuille public, Gilbert ONDONGO Le ministre de l’intérieur et de la décentralisation, Raymond Zéphirin MBOULOU
+- DECRETS ET ARRETES - A – TEXTE DE PORTEE GENERALE MINISTERE DE L’INTERIEUR ET DE LA DECENTRALISATION Arrêté n° 8063 du 26 mai 2011 fixant le taux des frais de descente des conseillers départementaux et municipaux. Le ministre de l’intérieur et de la décentralisation, Le ministre des finances, du budget et du portefeuille public, Vu la Constitution, Vu la loi n° 8-2003 du 6 février 2003 portant loi organique relative à l’exercice de la tutelle sur les collectivités locales ; Vu la loi n° 3-2003 du 17 janvier 2003 fixant l’organisation administrative territoriale ; Vu la loi n° 7-2003 du 6 février 2003 portant organisation et fonctionnement des collectivités locales ; Vu la loi n° 9-2003 du 6 février 2003 fixant les orientations fondamentales de la décentralisation ; Vu la loi n° 10-2003 du 6 février 2003 portant transfert de compétences aux collectivités locales ; Vu la loi n° 11-2003 du 6 février 2003 portant statut particulier de la ville de Brazzaville et de la ville de Pointe-Noire ;
+Vu la loi n° 30-2003 du 20 octobre 2003 portant institution du régime financier des collectivités locales ; Vu la loi n° 31-2003 du 24 octobre 2003 portant détermination du patrimoine des collectivités locales;
+Vu le décret n° 2009-392 du 13 octobre 2009 relatif aux attributions du ministre des finances, du budget et du portefeuille public ;
+Vu le décret n° 2009-394 du 13 octobre 2009 relatif aux attributions du ministre de l’intérieur et de la décentralisation ;
+Vu le décret n° 2009-335 du 15 septembre 2009 portant nomination des membres du Gouvernement. Arrêtent :
+Article premier : Le taux des frais de descente des conseillers départementaux et municipaux est fixé à quatre cent mille francs par conseiller et par session ordinaire.
+Article 2 : Les frais de descentes sont versés aux conseillers départementaux et municipaux à l’issue de chaque session ordinaire et renouvelés, pour la session ordinaire suivante, sur présentation du rapport de descente de la session précédente. Article 3 : Les frais de descente des conseillers départementaux et municipaux sont imputables au budget des collectivités locales.
+Article 4 : Le présent arrêté sera enregistré et publié au Journal officiel de la République du Congo.
+Fait à Brazzaville, le 26 mai 2011 Le ministre de l’intérieur et de la décentralisation, Raymond Zéphirin MBOULOU Le ministre des finances, du budget et du portefeuille public, Gilbert ONDONGO B – TEXTES PARTICULIERS PRESIDENCE DE LA REPUBLIQUE NOMINATION Décret n° 2011-371 du 1er juin 2011. M.
+IBOBI (Gilbert) est nommé directeur du protocole présidentiel.
+M. IBOBI (Gilbert) percevra les indemnités prévues par les textes en vigueur.
+Journal officiel de la République du Congo Du jeudi 9 juin 2011
