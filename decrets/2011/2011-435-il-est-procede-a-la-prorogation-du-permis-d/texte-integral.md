@@ -1,0 +1,7 @@
+# Décret n°2011-435 du 25 juin 2011. Il est procédé à la prorogation du permis d'exploitation dit permis "Zatchi Marine" valable pour les hydrocarbures liquides ou gazeux au profit de la société Eni Congo S.A subrogée dans les droits de la société AGIP
+
+Décret no 20 1 I - 435 du 25 Juin 2O I I . ll esr procédé à la prorogation du permis d'exploitation dit permis "Zatchi Marine" valable pour les hydrocarbures liquides ou gazeux au profit de la société Eni Congo S.A subrogée dans les droits de la société AGIP Recherche Congo.
+Iæ permis "Zatchi Marine" est prorogé pour une durée de cinq ans à compter du 4 juin 2OIL La superficie du permis "Zatchi Marine" au titre de la prorogation est égale à 77, 5 km2 comprise à I'intérieur d'un périmètre représenté par une carte et définie par les limites en annexe du présent décret. Un bonus de signature sera payé à l'Etat congolais par la société Eni Congo S.A suivant un accord particulier y relatif.
+Ce bonus ne constitue pas un cout pétrolier récupérable.
+Le ministre des hydrocarbures et le ministre des finances sont chargés, chacun en ce qui le concerne, de I'exécution du présent décret.
+a République du Congo N" 26-201 r Coordonnées X (m) Y [m) A 764 000 I 505 500 B 770 000 I 505 500 770 000 9 504 500 D 772 000 9 504 500 E 772 000 9 503 500 F 773 000 I 503 500 G T73 000 I 496 000 H 767 000 9 496 000 I 767 000 I 497 000 J 765 000 I 497 000 K 765 000 I 498 000 L ' 764 000 9 498 000 M ) 9 505 500
