@@ -1,0 +1,13 @@
+# Signatures
+
+Fait à Brazzaville, le 7 décembre 2011 Par le Président de la République, Denis SASSOU-N’GUESSO Le ministre du développement durable, de l’économie forestière et de l’environnement, Henri DJOMBO Le ministre des finances, du budget et du portefeuille public, Gilbert ONDONGO Le ministre de l’intérieur et de la décentralisation, Raymond Zéphirin MBOULOU Le ministre d’Etat, ministre du développement industrieI et de la promotion du secteur privé, Rodolphe ADADA Le ministre des mines et de la géologie, Pierre OBA Le ministre des hydrocarbures, André Raphaël LOEMBA Le ministre de l’énergie et de l’hydraulique, Bruno Jean Richard ITOUA Le ministre de l’agriculture et de I’élevage, Rigobert MABOUNDOU MINISTERE DES POSTES, DES TELECOMMUNI- CATIONS ET DES NOUVELLES TECHNOLOGIES DE LA COMMUNICATION Décret n° 2011-734 du 7 décembre 2011 fixant les conditions d’établissement et d’exploitation des réseaux et services de communications électroniques â très haut débit Le Président de la République, Vu la Constitution ;
+Vu la loi n° 9-2009 du 25 novembre 2009 portant réglementation du secteur des communications électroniques ;
+Vu la loi n° 11-2009 du 25 novembre 2009 portant création de l’agence de régulation des postes et des communications électroniques ;
+Vu le décret n° 2009-468 du 24 décembre 2009 relatif aux attributions du ministre des postes, des télécommunications et des nouvelles technologies de la communication ;
+Vu le décret n° 2009-473 du 24 décembre 2009 portant organisation du ministère des postes, des télécommunications et des nouvelles technologies de la communication ;
+Vu le décret n° 2011-558 du 17 août 2011 portant nomination de nouveaux ministres et fixant la composition du Gouvernement. Décrète :
+Article premier: Le présent décret fixe les conditions d’établissement et d’exploitation des réseaux et services de communications électroniques à très haut débit Article 2 : Au sens du présent décret, on entend par:
+Autorité de régulation : l’agence de régulation des postes et des communicaticns électroniques.
+Réseau des communications électroniques à très haut débit : l’ensemble constitué des infrastructures, équipements et services pouvant acheminer du très haut débit.
+Le réseau international : les réseaux de transport incluant les sites des réseaux sous-marins ou terrestres permettant l’accès aux capacités internationales à très haut débit.
+Le réseau national : les réseaux de transport incluant le backbone, les réseaux de collecte, les réseaux métropolitains ou d’accès, de desserte sur le Journal officiel de la République du Congo N° 50-2011
