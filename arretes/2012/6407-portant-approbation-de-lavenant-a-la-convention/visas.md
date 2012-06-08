@@ -1,0 +1,8 @@
+# Visas
+
+Arrêté n° 6407 du 8 juin 2012 portant approbation de l’avenant à la convention d’aménagement et de transformation n° 14 du 13 novembre 2002, pour la mise en valeur d’unité forestière d’aménagement Loundoungou-Toukoulaka, Le ministre du développement durable,de l’économie forestière et de l’environnement, Vu la Constitution ;
+Vu la loi n° 16-2000 du 20 novembre 2000 portant code forestier ;
+Vu le décret n° 2002-437 du 31 décembre 2002 fixant les conditions de gestion et d’utilisation des forêts ;
+Vu le décret n° 2009-396 du 13 octobre 2009 relatif aux attributions du ministre du développement durable, de l’économie forestière et de l’environnement ; Vu le décret n° 2010-74 du 2 février 2010 portant organisation du ministère du développement durable, de l’économie forestière et de l’environnement ; Vu le décret n° 2011-558 du 17 août 2011 portant nomination de nouveaux ministres et fixant la composition du Gouvernement ; Vu l’arrêté n° 4432 du 24 mars 2011 portant création, définition des unités forestières d’aménagement du domaine forestier de la zone I Likouala, du secteur forestier nord et précisant les modalités de leur gestion et de leur exploitation ; Vu l’arrêté n° 5859 du 13 novembre 2002 portant approbation de la convention d’aménagement et de transformation entre le gouvernement congolais et la congolaise industrielle des bois, pour la mise en valeur de l’unité forestière d’aménagement Loundoungou- Toukoula, située dans le département de la Likouala ;
+Vu le compte rendu de la réunion d’adoption du plan d’aménagement de l’unité forestière d’aménagement Loundoungou-Toukoulaka.
+Arrête :
