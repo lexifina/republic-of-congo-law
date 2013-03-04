@@ -1,0 +1,5 @@
+# Signatures
+
+Fait à Brazzaville, le 4 mars 2013 Par le Président de la République, Denis SASSOU-N’GUESSO Le ministre de l’économie forestière et du développement durable, Henri DJOMBO Le ministre d’Etat, garde des sceaux, ministre de la justice et des droits humains, Aimé Emmanuel YOKA Le ministre d’Etat, ministre de l’économie, des finances, du plan, du portefeuille public et de l’intégration, Gilbert ONDONGO Le ministre de l’intérieur et de la décentralisation, Raymond Zéphirin MBOULOU Le ministre à la Présidence de la République chargé de l’aménagement du territoire et de la délégation générale aux grands travaux, Jean-Jacques BOUYA Décret n° 2013 - 80 du 4 mars 2013 portant approbation du plan d’aménagement de l’unité forestière d’aménagement Loundoungou-Toukoulaka, situeé dans la zone I, Likouala, du secteur forestier Nord Le Président de la République, Vu la Constitution ;
+Vu la loi n° 003-91 du 3 avril 1991 sur la protection de l’environnement ;
+Journal officiel de la République du Congo Du jeudi 14 mars 2013
