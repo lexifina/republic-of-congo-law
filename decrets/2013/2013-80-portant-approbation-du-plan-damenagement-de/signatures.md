@@ -1,0 +1,25 @@
+# Signatures
+
+Fait à Brazzaville, le 4 mars 2013 Par le Président de la République, Denis SASSOU-N’GUESSO Le ministre de l’économie forestière et du développement durable, Henri DJOMBO Le ministre d’Etat, garde des sceaux, ministre de la justice et des droits humains, Aimé Emmanuel YOKA Le ministre d’Etat, ministre de l’économie, des finances, du plan, du portefeuille public et de l’intégration, Gilbert ONDONGO Le ministre de l’intérieur et de la décentralisation, Raymond Zéphirin MBOULOU Le ministre à la Présidence de la République chargé de l’aménagement du territoire et de la délégation générale aux grands travaux, Jean-Jacques BOUYA Décret n° 2013 - 80 du 4 mars 2013 portant approbation du plan d’aménagement de l’unité forestière d’aménagement Loundoungou-Toukoulaka, situeé dans la zone I, Likouala, du secteur forestier Nord Le Président de la République, Vu la Constitution ;
+Vu la loi n° 003-91 du 3 avril 1991 sur la protection de l’environnement ;
+Journal officiel de la République du Congo Du jeudi 14 mars 2013 Vu la loi n° 16-2000 du 20 novembre 2000 portant code forestier ;
+Vu la loi n° 10-2004 du 26 mars 2004 fixant les principes généraux applicables aux régimes domanial et foncier ;
+Vu la loi n° 37-2008 du 28 novembre 2008 sur la faune et les aires protégées ;
+Vu le décret n° 2002-437 du 31 décembre 2002 fixant les conditions de gestion et d’utilisation des forêts ;
+Vu le décret n° 2012-1035 du 25 septembre 2012 portant nomination des membres du Gouvernement ;
+Vu le compte rendu de la réunion du 12 février 2010 relative à la validation du plan d’aménagement de l’unité forestière d’aménagement Loundoungou- Toukoulaka.
+En Conseil des ministres, Décrète :
+Article premier : Est approuvé, conformément à l’article 56 de la loi n° 16-2000 du 20 novembre 2000 susvisée, pour une durée maximum de 20 ans, à compter de la date de signature du présent décret, le plan d’aménagement de l’unité forestière d’aménagement Loundoungou-Toukoulaka. Article 2 : L’exploitation de l’unité forestière d’aménagement Loundoungou-Toukoulaka se fera sur la base de coupes successives exploitées dans les unités forestières de production et pour une rotation de 30 ans.
+Article 3 : Le plan d’aménagement de l’unité forestière d’aménagement Loundoungou-Toukoulaka sera révisé à la fin de l’exploitation de chaque unité forestière de production.
+La révision du plan d’aménagement peut être anticipée à l’initiative du ministre chargé des forêts, en cas de survenance d’événements imprévus, tels que le dépérissement des arbres, les incendies ou l’évolution du marché.
+Article 4 : L’évaluation de la mise en oeuvre du plan d’aménagement sera faite à la fin de la période d’exploitation de chaque unité forestière de production, prévue pour quatre à six ans.
+Article 5 : Le présent décret, qui abroge toutes dispositions antérieures contraires sera enregistré et publié au Journal officiel de la République du Congo.
+Fait à Brazzaville, le 4 mars 2013 Par le Président de la République, Denis SASSOU-N’GUESSO Le ministre de l’économie forestière et du développement durable, Henri DJOMBO Le ministre d’Etat, garde des sceaux, ministre de la justice et des droits humains, Aimé Emmanuel YOKA Le ministre d’Etat, ministre de l’économie, des finances, du plan, du portefeuille public et de l’intégration, Gilbert ONDONGO Le ministre de l’intérieur et de la décentralisation, Raymond Zéphirin MBOULOU Le ministre à la Présidence de la République chargé de l’aménagement du territoire et de la délégation générale aux grands travaux, Jean-Jacques BOUYA Arrêté n° 1430 du 1er mars 2013 portant modification de l’arrêté n° 4432 du 24 mars 2011 portant création, définition des unités forestières d’aménagement du domaine forestier de la zone I, Likouala, du secteur forestier Nord et précisant les modalités de leur gestion et de leur exploitation.
+Le ministre de l’économie forestière et du développement durable, Vu la Constitution ;
+Vu la loi n° 16-2000 du 20 novembre 2000 portant code forestier ;
+Vu la loi n° 14-2009 du 30 décembre 2009 modifiant certaines dispositions de la loi 16-2000 du 20 novembre 2000 portant code forestier ; Vu le décret n° 2002-437 du 31 décembre 2002 fixant les conditions de gestion et d’utilisation des forêts ;
+Vu le décret n° 2012-1035 du 25 septembre 2012 portant nomination des membres du Gouvernement ;
+Vu le décret n° 2012-1155 du 9 novembre 2012 relatif aux attributions du ministre de l’économie forestière et du développement durable ;
+Vu l’arrêté n° 4432 du 24 mars 2011 portant création, définition des unités forestières d’aménagement du domaine forestier de la zone I, Likouala, du secteur forestier Nord et précisant les modalités de leur gestion et de leur exploitation.
+Arrête :
+Article unique : Les dispositions de l’article 3 alinéa i du chapitre 2, de l’arrêté n° 4432 du 24 mars 2011 susvisé sont modifiées ainsi qu’il suit Chapitre II : De la définition des unités forestières d’aménagement Article 3 alinéa i (nouveau) : L’unité forestière d’aménagement Oubangui-Tanga, comprend deux (2) unités Journal officiel de la République du Congo N° 11-2013
