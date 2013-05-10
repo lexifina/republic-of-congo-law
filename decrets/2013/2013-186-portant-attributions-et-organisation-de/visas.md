@@ -1,0 +1,14 @@
+# Visas
+
+de l’environnement est dirigée et animée par un directeur.
+Elle est chargée, notamment, de :
+- préparer et exécuter le budget du fonds pour la protection de l’environnement ;
+- veiller au respect de la répartition des recettes au profit des différents bénéficiaires conformément aux décisions du comité de gestion ;
+- suivre le recouvrement des recettes ;
+- suivre l’encaissement des recettes par le trésor public ;
+- préparer les réunions du comité de gestion ;
+- exécuter les délibérations du comité de gestion ;
+- élaborer les procès-verbaux des réunions du comité de gestion ;
+- préparer les comptes administratifs et de gestion;
+- participer à l’élaboration des programmes d’activités et du budget du fonds ;
+- veiller à la conformité des dépenses.

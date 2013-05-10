@@ -1,0 +1,18 @@
+# Signatures
+
+Fait à Brazzaville, le 10 mai 2013 Par le Président de la République, Denis SASSOU-N’GUESSO Le ministre du tourisme et de l’environnement, Josué Rodrigue NGOUONIMBA Le ministre d’Etat, ministre de l’économie, des finances, du plan, du portefeuille public et de l’intégration, Gilbert ONDONGO Le ministre de la fonction publique et de la réforme de l’Etat, Guy Brice Parfait KOLELAS B - TEXTES PARTICULIERS PRESIDENCE DE LA REPUBLIQUE Décret n° 2013-168 du 8 mai 2013. M.
+LOEMBA (Steve) est nommé chargé de mission du Président de la République.
+Le présent décret prend effet à compter de la date de prise de fonctions de M. LOEMBA (Steve).
+MINISTERE DES TRANSPORTS, DE L’AVIATION CIVILE ET DE LA MARINE MARCHANDE AGREMENT Arrêté n° 5438 du 8 mai 2013. La société GX International, B.P. : 1, avenue Foch, face Mairie Centrale de Brazzaville est agréée pour l'exercice de l'activité d'auxiliaire de transport en qualité de commissionnaire de transport. L'agrément est valable six mois, renouvelable une seule fois.
+La délivrance et le renouvellement de l'agrément sont soumis au paiement des droits y afférents à la direction générale de la marine marchande. L'agrément est individuel et incessible. Il ne peut être ni transféré, ni loué.
+Le directeur général de la marine marchande est chargé de veiller à la régularité de l'exercice de l'activité accordée à la société GX International, qui est soumise aux régimes disciplinaire et pénal de la marine marchande.
+Arrêté n° 5439 du 8 mai 2013. La société GX International, B.P. : 1, avenue Foch, face Mairie Centrale de Brazzaville est agréée pour l'exercice de l'activité d'auxiliaire de transport en qualité de manutentionnaire ou acconier. L'agrément est valable six mois, renouvelable une seule fois.
+La délivrance et le renouvellement de l'agrément sont soumis au paiement des droits y afférents à la direction générale de la marine marchande. L'agrément est individuel et incessible. Il ne peut être ni transféré, ni loué.
+Le directeur général de la marine marchande est chargé de veiller à la régularité de l'exercice de l'activité accordée à la société GX International, qui est soumise aux régimes disciplinaire et pénal de la marine marchande.
+Arrêté n° 5440 du 8 mai 2013. La société Aqua Marine Congo, immeuble socotra, zone portuaire, Pointe-Noire, est agréée pour l'exercice de l'activité d'auxiliaire de transport en qualité de manutentionnaire ou acconier. L'agrément est valable six mois.
+La délivrance et le renouvellement de l'agrément sont soumis au paiement des droits y afférents à la direction générale de la marine marchande. L'agrément est individuel et incessible. Il ne peut être ni transféré, ni loué.
+Le directeur général de la marine marchande est chargé de veiller à la régularité de l'exercice de l'activité accordée à la société Aqua Marine Congo, qui est soumise aux régimes disciplinaire et pénal de la marine marchande.
+Arrêté n° 5441 du 8 mai 2013. La société GX International, B.P. : 1, avenue Foch, face Mairie Centrale de Brazzaville est agréée pour l'exercice de l'activité d'auxiliaire de transport en qualité de transitaire..
+L'agrément est valable six mois, renouvelable une seule fois.
+La délivrance et le renouvellement de l'agrément sont soumis au paiement des droits y afférents à la direction générale de la marine marchande. L'agrément est individuel et incessible. Il ne peut être ni transféré, ni loué.
+Le directeur général de la marine marchande est chargé de veiller à la régularité de l'exercice de l'activité accordée à la société GX International, qui est Journal officiel de la République du Congo Du jeudi 16 mai 2013
