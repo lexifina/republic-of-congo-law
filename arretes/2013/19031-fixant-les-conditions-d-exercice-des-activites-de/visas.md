@@ -1,0 +1,16 @@
+# Visas
+
+Arrêté n° 19031 du 19 décembre 2013 fixant les conditions d'exercice des activités de prestataire en mer d'enlèvement ou de collecte des déchets d'exploitation et/ou des résidus de cargaisons des navires et des plates-formes ou autres résidus et/ou de dépollution en mer, des bassins et rades portuaires résultant des déversements des hydrocarbures et autres déchets dans les eaux maritimes sous juridiction congolaise LE MINISTRE DELEGUE AUPRES DU MINISTRE D’ETAT, MINISTRE DES TRANSPORTS, DE L’AVIA- TION CIVILE ET DE LA MARINE MARCHANDE, CHARGE DE LA MARINE MARCHANDE Vu la Constitution ;
+Vu le règlement n° 8/12-UEAC-088-CM-23 du 22 juillet 2012 portant adoption du code communautaire de la marine marchande ; Vu la loi n° 6/83 du 27 janvier 1983 portant approbation de l'adhésion de la République Populaire du Congo à la convention internationale de 1973 pour la prévention de la pollution par les navires ;
+Vu la loi n° 3-2002 du 1er juillet 2002 déterminant les infractions et les sanctions dans le cadre des régimes disciplinaire et pénal de la marine marchande ;
+Vu la loi n° 4-2002 du 1er juillet 2002 fixant les montants des droits, taxes et frais afférents à l'accomplissement des actes administratifs à caractère maritime ; Vu la loi n° 12-2004 du 26 mars 2004 autorisant la ratification du protocole de 1978 relatif à la convention internationale de 1973 pour la prévention de la pollution par les navires ;
+Vu la loi n° 4-2008 du 30 janvier 2008 autorisant la ratification de la convention des Nations Unies sur le droit de la mer ;
+Vu l'ordonnance n° 14-78 du 11 avril 1978 ratifiant la convention internationale de 1974 pour la sauvegarde de la vie humaine en mer ainsi que le code international pour la sûreté des navires et des installations portuaires adopté le 12 décembre 2002 ; Vu le décret n° 2008-10 du 30 janvier 2008 portant ratification de la convention des Nations Unies sur le droit de la mer ;
+Vu le décret n° 99-94 du 2 juin 1999 portant attributions et organisation de la direction générale de la marine marchande ;
+Vu le décret n° 2006-638 du 30 octobre 2006 portant approbation des statuts du port autonome de Pointe- Noire ;
+Vu le décret n° 2007-69 du 26 janvier 2007 modifiant le décret n° 2006-638 du 30 octobre 2006 portant approbation des statuts du port autonome de Pointe- Noire ;
+Vu le décret n° 2008-320 du 5 août 2008 portant attributions et organisation de l'inspection générale des affaires maritimes et portuaires ;
+Vu le décret n° 2009-389 du 13 octobre 2009 relatif aux attributions du ministre des transports, de l'aviation civile et de la marine marchande ; Vu le décret n° 2009-405 du 13 octobre 2009 relatif aux attributions déléguées du ministre délégué auprès du ministre d'Etat, ministre des transports, de l'aviation civile et de la marine marchande, chargé de la marine marchande ;
+Vu le décret n° 2010-336 du 14 juin 2010 portant organisation du ministère des transports, de l'aviation civile et de la marine marchande ; Vu le décret n° 2012-1035 du 25 septembre 2012 portant nomination des membres du Gouvernement ;
+Vu l'arrêté n° 3834 du 30 août 1992 sur l'information nautique des navires dans les eaux territoriales congolaises.
+Arrête :
