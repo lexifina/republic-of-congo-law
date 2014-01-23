@@ -1,0 +1,14 @@
+# Signatures
+
+Fait à Brazzaville, le 23 janvier 2014 Le ministre de la pêche et de l'aquaculture, Bernard TCHIBAMBELELA Le ministre délégué auprès du ministre d'Etat ministre des transports, de l'aviation civile et de la marine marchande, chargé de la marine marchande, Martin Parfait Aimé COUSSOUD MAVOUNGOU B - TEXTES PARTICULIERS MINISTERE DES MINES ET DE LA GEOLOGIE AUTORISATION DE PROSPECTION Arrêté n° 93 du 24 janvier 2014. La société Million Well Holding Limited s.a.r.l., domiciliée : 12, rue Fouloumoueri, Moukondo, Brazzaville, République du Congo, est autorisée à procéder à des prospections minières valables pour le fer dans la zone de Mendjong du département de la Sangha.
+La superficie de la zone à prospecter, réputée égale à 3476 km², est définie par les limites géographiques suivantes :
+Sommets Longitude Latitude A 14°09'54" E 1°23'35'' N B 14°09'54'' E 1°38'49'' N C 14°51'36'' E 1°38'49" N D 14°51'36'' E 1°12'58'' N E 14°18'58'' E 1°12'58'' N Frontière Congo – Gabon Conformément aux dispositions de l'article 9 du décret n° 2007-274 du 21 mai 2007 fixant les conditions de prospection, de recherche et d'exploitation des substances minérales et celles d'exercice de la surveillance administrative, la société Million Well Holding Limited s.a.r.l. est tenue d'associer aux travaux de prospection les cadres et techniciens de la direction générale de la géologie.
+Les échantillons prélevés au cours des travaux et destinés à des analyses ou tests à l'extérieur du territoire congolais doivent faire l'objet d'un certificat d'origine délivré par le directeur général de la géologie.
+La société Million Well Holding Limited s.a.r.l. fera parvenir les rapports des travaux, chaque fin de trimestre, à la direction générale de la géologie.
+Conformément aux dispositions des articles 149 et 151 de la loi n° 4-2005 du 11 avril 2005 portant code minier, la société Million Well Holding Limited s.a.r.l.
+bénéficie de l'exonération de tous les droits et taxes à l'importation et de toutes taxes intérieures sur les matériels et matériaux nécessaires à l'exécution des travaux de prospection minière.
+Cependant, la société Million Well Holding Limited s.a.r.l. s'acquittera d'une redevance superficiaire, conformément aux textes en vigueur.
+Conformément aux articles 91 et 92 de la loi n° 4-2005 du 11 avril 2005 portant code minier, l'autorisation de prospection visée par le présent arrêté pourra faire l'objet d'une suspension ou d'un retrait en cas de non-exécution ou d'arrêt des travaux pendant trois mois consécutifs, sans raison valable. La durée de validité de la présente autorisation de prospection est de douze mois, renouvelable dans les conditions prévues par le code minier.
+Le directeur général de la géologie est chargé de veiller à l'application des présentes dispositions.
+Autorisation de prospection «Mendjong» dans le département de la Sangha.
+Journal officiel de la République du Congo N° 6-2014
