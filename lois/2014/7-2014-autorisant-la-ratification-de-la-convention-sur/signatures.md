@@ -1,0 +1,14 @@
+# Signatures
+
+Fait à Paris ce sixième jour de novembre 2001, en deux exemplaires authentiques portant la signature du Président de la Conférence générale réunie en sa trente-et-unième session, et du Directeur général de l'Organisation des Nations Unies pour l'éducation, la science et la culture, qui seront déposés dans les archives de l'Organisations des Nations Unies pour l'éducation, la science et la culture et dont les copies certifiées conformes seront remises à tous les Etats et territoires visés à l'article 26 ainsi qu'à l'Organisation des Nations Unies.
+Hecho en Paris en este dia seis de noviembre de 2001, en dos ejemplares auténticos que Ilevan la firma del Presidente de la Conferencia General, en su trigésimo primera reunion, y del Director General de la Organizaciôn de las Naciones Unidas para la Educacion, la Ciencia y la Cultura, ejemplares que se depositarân en los archives de esta Organizacion, y cuyas copias certificadas conformes se remitiràn a todos los Estados y territorios a que se refiere et Articulo 26, asi como a las Naciones Unidas.
+Certified Copy Copie certifiée conforme Copia certificada conforme Paris, 25-04-2002 Legal Adviser United Nations Educational, Scientific and Cultural Organization Conseiller juridique de l'Organisation des Nations Unies pour l'éducation, la science et la culture Consejero juridico de la Organizacion des las Naciones Unidas para la Educacion, la Ciencia y la Cultura In witness whereof we have appended our signatures this 6th day of November 2001 En foi de quoi ont apposé leur signature, ce 6e jour de novembre 2001.
+En fe de lo cual estampan sus firmas, en este dia 6 de noviembre de 2001.
+The President of the General Conférence Le Président de la Conférence générale El Presidente de la Conferencia General The Director-General Le Directeur général El Director General
+- DECRET ET ARRETES - A - TEXTES GENERAUX MINISTERE DU TRAVAIL ET DE LA SECURITE SOCIALE Arrêté n° 4299 du 28 mars 2014 portant composition de la commission mixte paritaire chargée de négocier la convention collective des sociétés d'exploitation forestière Le ministre d'Etat, ministre du travail et de la sécurite sociale, Vu la Constitution ;
+Vu la loi n° 45-75 du 15 mars 1975 instituant un code du travail de la République populaire du Congo;
+Vu la loi n° 6-96 du 6 mars 1996 modifiant et complétant certaines dispositions de la loi n° 45-75 du 15 mars 1975 ;
+Vu le décret n° 2009-391 du 13 octobre 2009 relatif aux attributions du ministre du travail et de la sécurité sociale ;
+Vu le décret n° 2012-1035 du 25 septembre 2012 portant nomination des membres du Gouvernement ;
+Vu les dispositions de l'article 4 de la convention collective des entreprises agricoles et forestières du 7 mars 1992 ;
+Journal officiel de la République du Congo N° 15-2014
