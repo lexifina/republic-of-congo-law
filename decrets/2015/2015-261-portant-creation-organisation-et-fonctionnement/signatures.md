@@ -1,0 +1,6 @@
+# Signatures
+
+Fait à Brazzaville, le 27 février 2015 Par le Président de la République, Denis SASSOU-N’GUESSO Le ministre de l’économie forestière et du développement durable, Henri DJOMBO Le ministre de l’intérieur et de la décentralisation, Raymond Zéphirin MBOULOU Le ministre du tourisme et de l’environnement, Josué Rodrigue NGOUONIMBA Le ministre d’Etat, ministre de l’économie, des finances, du plan, du portefeuille public et de l’intégration, Gilbert ONDONGO Le ministre à la Présidence de la République chargé de la défense nationale, Charles Richard MONDJO Le ministre d’Etat, garde des sceaux, ministre de la justice et des droits humains, Aimé Emmanuel YOKA La ministre du commerce et des approvisionnements, Claudine MUNARI Décret n° 2015-262 du 27 février 2015 portant approbation du plan d’aménagement du sanctuaire de gorilles de Lossi, situé dans le district de Mbomo, dans le département de la Cuvette-Ouest Le Président de la République, Vu la Constitution ;
+Vu la loi n° 003-91 du 23 avril 1991 sur la protection de l’environnement ;
+Vu la loi n° 16-2000 du 20 novembre 2000 portant code forestier ;
+Vu la loi n° 10-2004 du 26 mars 2004 fixant les Journal officiel de la République du Congo N° 10-2015
