@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Brazzaville, le 17 juillet 2017 Par le Président de la République, Denis SASSOU-N’GUESSO Le Premier ministre, chef du Gouvernement, Clément MOUAMBA Le ministre de l’énergie et de l’hydraulique, Serge Blaise ZONIABA Le ministre des ﬁ nances, du budget et du portefeuille public, Calixte NGANONGO La ministre de l’économie forestière, du développement durable et de l’environnement, Rosalie MATONDO Le ministre de l’aménagement du territoire et des grands travaux, Jean-Jacques BOUYA Le ministre de l’intérieur, de la décentralisation et du développement local, Raymond Zéphirin MBOULOU
