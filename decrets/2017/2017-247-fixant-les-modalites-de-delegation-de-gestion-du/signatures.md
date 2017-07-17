@@ -1,0 +1,19 @@
+# Signatures
+
+Fait à Brazzaville, le 17 juillet 2017 Par le Président de la République, Denis SASSOU-N’GUESSO Le Premier ministre, chef du Gouvernement, Clément MOUAMBA Le ministre des ﬁ nances, du budget et du portefeuille public, Calixte NGANONGO Le ministre de l’énergie et de l’hydraulique, Serge Blaise ZONIABA Le ministre de l’aménagement du territoire et des grand travaux, Jean Jacques BOUYA Le ministre de l’intérieur, de la décentralisation et du développement local, Raymond Zéphirin MBOULOU La ministre de l’économie forestière, du développement durable et de l’environnement, Rosalie MATONDO Décret n° 2017-248 du 17 juillet 2017 ﬁ xant les conditions d’exercice de la production indépendante de l’électricité Le Président de la République, Vu la Constitution ;
+Vu la loi n° 003-91 du 23 avril 1991 sur la protection de l’environnement ;
+Vu la loi n° 14-2003 du 10 avril 2003 portant code de l’électricité ;
+Vu la loi n° 16-2003 du 10 avril 2003 portant création de l’agence de régulation du secteur de l’électricité ;
+Vu le décret n° 2010-123 du 19 février 2010 relatif aux attributions du ministre de l’énergie et de l’hydraulique ;
+Vu le décret n° 2010-241 du 16 mars 2010 portant organisation du ministère de l’énergie et de l’hydraulique ; Vu le décret n° 2016-117 du 23 avril 2016 portant nomination du Premier ministre, chef du Gouvernement ; Vu le décret n° 2016-168 du 30 avril 2016 portant nomination des membres du Gouvernement ;
+En Conseil des ministres, Décrète :
+TITRE I : DISPOSITIONS GENERALES Article premier : Le présent décret ﬁ xe, conformément aux dispositions des articles 4 et 43 de la loi n° 14-2003 du 10 avril 2003 susvisée, les conditions d’execice de la production indépendante de l’électricité sur l’ensemble du territoire national. Il détermine également les modalités d’accès des producteurs indépendants aux réseaux publics de l’électricité. Article 2 : La production indépendante de l’électricité est l’ensemble des opérations relatives à l’établissement et à l’exploitation, à des ﬁ ns commerciales, des systèmes privés de production de l’électricité par des personnes morales de droit public ou de droit privé.
+L’énergie produite par le producteur indépendant est vendue au gestionnaire du réseau national de distribution de l’électricité ou directement aux personnes morales de droit public ou de droit privé.
+Article 3 : Toute production indépendante de l’électricité est assujettie aux obligations du service public telles que prévues au chapitre 2 de la loi portant code de l’électricité, ainsi qu’aux orientations stratégiques de la politique énergétique nationale.
+Elle est également assurée dans le respect des règles régissant l’environnement.
+La production d’origine hydraulique relève des dispositions relatives aux contrats de délégation de gestion du service public de l’électricité.
+TITRE II : DES MODALITES D’EXERCICE Article 4 : Toute personne morale de droit public ou de droit privé désireuse d’exercer l’activité de production indépendante de l’électricité est tenue d’obtenir une licence de producteur indépendant auprès du ministre chargé de l’électricité. Section 1 : De la composition du dossier de la licence de producteur indépendant Article 5 : Le dossier de la licence de producteur indépendant de l’électricité est constitué d’un volet administratif et d’un volet technique. Le volet administratif comprend :
+la demande de licence, assortie d’un timbre ﬁ scal au tarif en vigueur, comportant les nom(s), qualité ou raison sociale, nationalité et adresse du demandeur ;
+les informations sur les capacités techniques et ﬁ nancières du demandeur ;
+les autorisations exigées pour les travaux ou pour l’installation des ouvrages délivrées par les autorités administratives compétentes ;
+la promesse de souscrire une assurance en responsabilité civile ;
