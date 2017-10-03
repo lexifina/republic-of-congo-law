@@ -1,0 +1,23 @@
+# Signatures
+
+Fait a Brazzaville,le 3 octobre 2017 Par lc Presidcnt de la REpubliquc, Denis SASSOU-N'GUESSO Ir Premier ministre. chef du Gouvernement.
+Clement MOUAMBA Le Vice-Premier ministre, charge de la fonction publique, de la reforme de I'Etat. du travail et de la securite sociale, Firmin AYESSA Le ministre des finances et du budget, Calixte NGANONGO Le ministre de la justice et des droits humains et de la promotion des peuples autochtones, Aime Ange Wilfrid BININGA Avle no OO6-ACC-SVC/17 du 21 septembre 2Ol7 sur la conformite i la Constitution de la loi organique relative aux lois de finances La Cour constitutionnelle.
+Saisie par lettre. en date. d Brazzaville. du I 8 ao0t 2O I 7 et enregistr6ele22 ao0t 2017 au secr6tariat general de la Cour constitutionnelle sous le n' CC-SG 003, par laquelle le secr6taire general du Gouvernement transmet d la Cour, pour avis de conformit6 ri la Constitution. avant promulgation. Ia loi organique relative aux lois de finances :
+Vu la Constitution ;
+Vu la loi organique no 1-2003 du 17 janvier 2003 portant organisation et fonctionnement de la Cour constitutionnelle :
+Vu le d6cret n" 2OO3-235 du 22 aoit 2OO3 portant attributions, organisation et fonctionnement du secretariat gen6ral de la Cour constitutionnelle ; Vu le d6cret n" 2012-681 du 29 malz0lz portant nomination des membres de Ia Cour constitutionnelle ; Vu le decret n' 2Al2-972 du 17 septembre 2012 portallt nollnination d'un lnembrc de la Cour consti― tutionnclle:
+Vu le dOcretn° 2012-973du 17septembre2012portant nonunation du pttsidcnt dc la Cour constitutionnellc:
+Vu le decret n。 2012-974 du 17 septelnbre 2012 portant non■inauOn du vice― prёsident de la Cour constitutionnelle l Vu le decret n。 2015-822 du 6 aont 2015 portant nOrFma“ n dcs rnembrcs de la Cour consututiOnnelle;
+ヾ、le dё cret n° 2004-247 du 28 mai 2004 portant nolnination du secrё taire general de la cour consti― tutionnelle;
+h le reJemcntil■tёricur de la Cour consttutiorlncuc:
+Ensemble lcs pieces du dOssier;
+Le rapporteur ayant etO entendu l I.Sur la regularite de la saisine Considerant qu'aux termes de l'article 179 alinea l de la ConsututiOn,《 ゑ2 Cο Ltr COnsttu故〕rlnclle est saおた, pour aυおaθ con」Ormi彪,αυantla prorn■りatiOn des lοお OηarLttLleS Ou la mおθ en application du¨ g"771ent in“― ricurくたchaqLte Chambtt du Parlement>:
+Considerant que l'article 33 alinea 4 de la lol orga― nique n° 1-2003 du 17janvier 2003 portant organisa― tion et foncuonnernent de la Cour constitutionnenc dispose:“ レs loおοりarliql′ ρs sonι け たCS a la cOltr COrLStiι tttiorlneこlθ parle ttsident泳夕la R■ttbliquc ou le Sec資先aむでgこな多ral dLI GoLlじer“顧Fn`pαrι僣ヒoαιiOn":
+ConsidOrant quc la Cour constitutionncllc est saisic par lcttre du sccretaire gё nёral du Gouvernement, datёe du 18 aont 2017,pOur avis dc confornlite de la loi organiquc relative aux lois de anances:qu'1l y a lieu de conclure quc cette saisine est reguliere:
+II.Sur lc fond ConsidOrantqucl'article 15 1 alinea4 dclaConstitution enOnce:“ Lcs loおαttη ttCtヒS ta Corlstitution coη 戯祀le caractaF dc 10ぉοηαniqLteS,hormis h lol壺∫narlCCS, sont υοttes ct Flodび "es dansた s coれdiムめ鵬sttわarlたsi “―セp肇υet ouヒとpropοsition tt loi n'est sottmお a la ddめ´rattn ct aLtじ0震夕dc ια prem"πθ chombrc salsF qu'al'cχ psQtiorl d'un dこlat dc qutrlzc ri5,JOLtrS 9ρ だs sο■畿pOti “ ―la pro∝dure des artたたs147a150 est applicable.
+Toutcルお,ヱlutt d'∝cord entTcたs delⅨ chambtts,Ic 佗滋e nc PcLtt OtTc adop“ par l■ssembtte rlationa診 en泳3rnttreたctLtre qu・ala mりοれ彪αbSο hjρ dc ses ηagηttb´es;
+《― "s loお οrgarlttues ne peuじθrlt atre prOmuり巌多CS qu'apたsdこclaratton par la Cottr corlstitttι わrLnelた酵 たltr corlJormitι a la Corlstitutわn", Considerant,de plus,que l'article 154 alinea l de la Constitutlon prё cise qu'“ 1/1ne loi οりantq"ρ rcgたセ mo6降de pttsc■tatわn du budgeι 凛〕lEtat":
+Ediuon specialc N° 8‐ 2017 D.octobre 2017 Journal olficlel de la R6ptrbltque dtr Congo Consid6rant que la loi organique relatve aux lois de Pierre PASSI finances. soumise i la Cour pour avis de conformi- Vice-pr€sident t€, qui d6termine le cadre juridique et les conditions d'adoption des lois de finances, ne comporte aucune Marc MASSAMBA NDILOU disposition contraire i la Constitution : qu'il en infere Membre qu'elle est conforme d Ia Constitution.
+Jacques BOMBETE Emet I'avis Membre Delphine EMMANUEL ADOUKI Article premier - La loi organique relative aux lois de U"*Ur" finances est conforme i la Constitution.
+Article 2 - r-epr6sent avis sera notifi€ au pr6sident de iotfrJ;tt*o Ana€l SAMoRY la Republique, d I'Assemblee nationale, au Sdnat et publi€ au Journal officiel.
+Justin BALLA'-MEGOT D€libere par la Cour constitutionnelle en sa s6ance Membre du 2l septembre 2017 ou sicgeaient t Nadia Josiane r,aure MACosso Membre Auguste ILOKI President Antonin MoKoKo Secretaire general
