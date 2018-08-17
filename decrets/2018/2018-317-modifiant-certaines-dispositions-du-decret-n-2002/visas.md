@@ -1,0 +1,11 @@
+# Visas
+
+' < r '(" ,, ' PRESI DENCE DE LA REPLJBLIQUE SECRETARIAT GENERAL DU GOU~~EMENT -----\.,-r----- REPUBLIQLJE DU CONGO Unite*Travai l*Progres Decret n ° 2 O 1 8 - 3 1 7 du a out 2 o 1 8 modifiant certaines dispositions du decret n° 2002-280 du 9 aout 2002 fixant les conditions et les modalites de delivrance et de retrait des agrements relatifs a l'exercice des activites de distribution et commercialisation LE PRESIDENT DE LA REPLJBLIQLJE, Vu la Constitution ;
+Vu la loi organique n° 36-2017 du 3 octobre 2017 relative aux lois de finances; Vu la loin° 003/91 du 23 avril 1991 sur la protection de l'environnement; Vu la loi n° 6-2001 du 19 octobre 2001 organisant les activites de raffinage, d'importation, d'exportation, de transit, de reexportation, de stockage, de transport massif, de distribution et commercialisation des hydrocarbures et des produits derives des hydrocarbures ; Vu l'ordonnance n° 3-2002 du 1er mars 2002 portent harmonisation technique de certaines dispositions de la loi n° 6-2001 du 19 octobre 2001 organisant !es activites de raffinage, d'importation, d'exportation, de transit, de reexportation, de stockage, de transport massif , de distri,_bution et commercialisation des hydrocarbures et des produits derives des hydrocarbures ;
+Vu le decret n° 2002-280 du 9 aoOt 2002 fixant les conditions et les modalites de delivrance et de retrait des agrements relatifs a l'exercice des activites de distribution et commercialisation;
+Vu le decret n° 2002-284 du 9 aoOt 2002 portent repression des infractions en matiere de fabrication, d'importation, d'exportation, de stockage, de transport, de distribution et commercial isation d'hydrocarbures et des produits derives des hydrocarbures et des prescriptions techniques de securite ;
+Vu le decret n° 2009-415 du 20 novembre 2009 fixant le champ d'application, le contenu et les procedures de l'etude et de la notice d'impact environnemental et social;
+Vu le decret n° 2017-371 du 21 aoOt 2017 portent nomination du Premier ministre, chef du Gouvernement ;
+Vu le decret n° 2017-373 du 22 aoOt 2017 portent nomination des membres du Gouvernement ;
+Vu le decret n° 2018-6 7 du 1er mars 2018 portant reglernent general sur la cornptabilite publique;
+En Conseil des ministres, DECRETE :
