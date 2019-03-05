@@ -1,0 +1,4 @@
+# Signatures
+
+Fait à Brazzaville, le 5 mars 2019 Par le Président de la République, Denis SASSOU-N’GUESSO Le Premier ministre, chef du Gouvernement, Clément MOUAMBA Le ministre de la construction, de l’urbanisme et de l’habitat, Josué Rodrigue NGOUONIMBA Le ministre de l’intérieur et de la décentralisation, Raymond Zéphirin MBOULOU Le ministre de l’aménagement, de l’équipement du territoire, des grands travaux, Jean-Jacques BOUYA Le ministre de la justice et des droits humains et de la promotion des peuples autochtones, Aimé Ange Wilfrid BININGA Le ministre des ﬁ nances et du budget, Calixte NGANONGO La ministre du tourisme et de l’environnement, Arlette SOUDAN-NONAULT La ministre de l’économie forestière, Rosalie MATONDO Le ministre des affaires foncières et du domaine public, chargé des relations avec le Parlement, Pierre MABIALA.
+Imprimé dans les ateliers de l’imprimerie du Journal ofﬁ ciel B.P.: 2087 Brazzaville
