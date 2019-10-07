@@ -1,0 +1,12 @@
+# Signatures
+
+Fait à Brazzaville, le 7 octobre 2019 Par le Premier ministre, chef du Gouvernement, Clément MOUAMBA Le ministre des transports, de l’aviation civile et de la marine marchande, Fidèle DIMOU Le ministre d’Etat, ministre du commerce, des approvisionnement et de la consommation, Alphonse Claude NSILOU Le ministre d’Etat, ministre de l’économie, de l’industrie et du portefeuille public, Gilbert ONDONGO Le ministre des ﬁ nances et du budget, Calixte NGANONGO Le ministre de la défense nationale, Charles Richard MONDJO MINISTERE DE L’AGRICUTURE, DE L’ELEVAGE ET DE LA PÊCHE Arrêté n° 17730 du 1er octobre 2019 portant création de la plateforme nationale pour une ﬁ lière huile de palme responsable et durable en République du Congo Le ministre d’Etat, ministre de l’agriculture, de l’élevage et de la pêche, Vu la Constitution ;
+Vu le décret n° 2017-371 du 21 août 2017 portant nomination du Premier ministre, chef du Gouvernement ; Vu le décret n° 2017-373 du 22 août 2017 portant nomination des membres du Gouvernement ;
+Vu le décret n° 2017-338 du 14 août 2017 portant organisation du ministère de l’agriculture, de l’élevage et de la pêche ;
+Vu le décret n° 2016-357 du 27 décembre 2016 relatif aux attributions du ministre de l’agriculture, de l’élevage et de la pêche ;
+Vu le décret n° 2017-340 du 14 août 2017 portant attribution et organisation de la direction générale de l’agriculture ;
+Vu le mémorandum d’entente du 21 mars 2017 entre le Gouvernement de la République du Congo et l’Initiative Huile de Palme en Afrique (APOI) de la Tropical Forest Alliance 2020 (TFA 2020), Arrête :
+Chapitre 1 : De la création Article premier : Il est créé une plateforme nationale de la ﬁ lière huile de palme responsable et durable en République du Congo, ci-après dénommée « Plateforme APOI de la TFA 2020 ».
+Article 2 : La Plateforme APOI de la TFA 2020 est placée sous la supervision directe du ministre en charge de l’agriculture.
+Chapitre 2 : Des attributions Article 3 : La Plateforme APOI est chargée d’assurer la coordination de la mise en œuvre des principes nationaux pour la production d’huile de palme en République du Congo, dans le cadre de l’Initiative d’Huile de Palme en Afrique (APOI).
+Il s’agit spéciﬁ quement de développer des synergies et garantir une cohérence des interventions entre les différents acteurs à travers une planiﬁ cation stratégique et opérationnelle pour la production d’huile de palme en République du Congo.
