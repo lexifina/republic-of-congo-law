@@ -1,0 +1,4 @@
+# Signatures
+
+Fait à Brazzaville, le 26 novembre 2019 Par le Président de la République, Denis SASSOU-N’GUESSO Le Premier ministre, chef du Gouvernement, Clément MOUAMBA Le ministre des zones économiques spéciales, Gilbert MOKOKI Le ministre de la justice et des droits humains et de la promotion des peuples autochtones, Aimé Ange Wilfrid BININGA Le ministre des ﬁ nances et du budget, Calixte NGANONGO
+- DECRETS ET ARRETES - A - TEXTES GENERAUX MINISTERE DES AFFAIRES FONCIERES ET DU DOMAINE PUBLIC Décret n° 2019-338 du 14 novembre 2019 portant attribution en propriété à la Banque de développement des Etats de l’Afrique centrale, d’une propriété immobilière cadastrée section L, bloc 2, parcelles 1, 2 et 3, située au lieu-dit « Avenue Prosper Ngandzion », arrondissement 3 Poto-Poto, département de Brazzaville
