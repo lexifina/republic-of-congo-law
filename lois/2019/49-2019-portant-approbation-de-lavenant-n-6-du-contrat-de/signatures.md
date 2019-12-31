@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Brazzaville en cinq (5) exemplaires originaux, le Pour la REPUBLIQUE DU CONGO _____________________________ Monsieur Jean-Marc THYSTERE TCHICAYA Ministre des Hydrocarbures _______________________________ Monsieur Calixte NGANONGO Ministre des Finances et du Budget Pour TOTAL E&P CONGO ______________________________ Monsieur Martin DEFFONTAINES Directeur Général Pour SOCIETE NATIONALE DES PETROLES DU CONGO ________________________________ Monsieur Raoul Maixent OMINGA Directeur Général, Président du Directoire Pour CHEVRON OVERSEAS (CONGO) LIMITED ______________________________ Monsieur Joseph BRINKMAN Vice-Président
