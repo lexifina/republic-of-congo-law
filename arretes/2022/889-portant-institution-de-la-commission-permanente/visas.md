@@ -1,0 +1,12 @@
+# Visas
+
+Journal officiel de la République du Congo N° 13-2022 ridiction étrangère dans des conditions analogues à celles prévues par la législation congolaise.
+TITRE VIII : DISPOSITIONS FINALES Am cle 199 : Les infractions assimilées à la corruption, touchant les autres secteurs d’activités, sont réprimées conformément aux lois et règlements en vigueur.
+Article 200 : La présente loi, qui abroge toutes dispositions antérieures contraires, notamment la loi n° 5-2009 du 22 septembre 2009 sur la corruption, la concussion, la fraude et les infractions assimilées, sera publiée au Journal officiel et exécutée comme loi de l’Etat.
+Fait à Brazzaville, le 11 mars 2022 Par le Président de la République, Denis SASSOU-N’GUESSO Le Premier ministre, chef du Gouvernement, Anatole Collinet MAKOSSO Le ministre de la justice, des droits humains et de la promotion des peuples autochtones, Aimé Ange Wilfrid BININGA Le ministre des finances, du budget et du portefeuille public, Rigobert Roger ANDELY Le ministre d’Etat, ministre des affaires foncières et du domaine public, chargé des relations avec le Parlement, Pierre MABIALA
+- DECRETS ET ARRETES - A – TEXTE DE PORTEE GENERALE MINISTERE DE LA COOPERATION INTERNATIONALE ET DE LA PROMOTION DU PARTENARIAT PUBLIC-PRIVE Arrête n° 889 du 15 mars 2022 portant institution de la commission permanente de suivi et d’évaluation des partenariats publics-privés Le ministre de la coopération internationale et de la promotion du partenariat public-privé, Vu la Constitution ;
+Vu la loi n° 06-2003 du 18 janvier 2003 relative à la charte des investissements ;
+Vu la loi n° 09-2004 du 26 mars 2004 portant code du domaine de l’Etat ;
+Vu le décret n° 2003-326 du 19 décembre 2003 relatif à l’exercice du pouvoir ré glementaire ;
+Vu le décret n° 2021-300 du 12 mai 2021 portant nomination du Premier mi nistre, chef du Gouvernement ; Vu ensemble les décrets n°s 2021-301 du 15 mai 2021 et 2021-302 du 16 mai 2021 portant nomination des membres du Gouvernement ;
+Vu le décret n° 2021-339 du 6 juillet 2021 relatif aux attributions du ministre de la coopération internationale et de la promotion du partenariat public-privé ; Vu le décret n° 2021-530 du 14 décembre 2021 portant organisation du ministère de la coopération internationale et de la promotion du partenariat public-privé ; Vu le décret n° 2021-531 du 14 décembre 2021, portant organisation du secréta riat général du ministère de la coopération internationale et à la promotion du partenariat public-privé, Arrête :
