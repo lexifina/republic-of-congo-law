@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Brazzaville, le 26 décembre 2022 Par le Président de la République, Denis SASSOU-N’GUESSO Le Premier ministre, chef du Gouvernement, Anatole Collinet MAKOSSO Le ministre d’ Etat, ministre des affaires foncières et du domaine public, chargé des relations avec le Parlement, Pierre MABIALA Le ministre de l’environnement, du développement durable et du bassin du Congo, Arlette SOUDAN-NONAULT La ministre de l’économie forestière, Rosalie MATONDO Le ministre de l’économie et des ﬁ nances, Jean-Baptiste ONDAYE Le ministre de la coopération internationale et de la promotion du partenariat public-privé, Denis Christel SASSOU NGUESSO
