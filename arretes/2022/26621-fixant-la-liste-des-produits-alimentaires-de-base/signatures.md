@@ -1,0 +1,6 @@
+# Signatures
+
+Fait à Brazzaville, le 30 décembre 2022 Le ministre d’Etat, ministre du commerce, des approvisionnements et de la consommation, Alphonse Claude N’SILOU Le ministre de l’économie et des ﬁ nances, Jean Baptiste ONDAYE Le ministre du budget, des comptes publics et du portefeuille public, Ludovic NGATSE Arrêté n° 26623 du 30 décembre 2022 ﬁ xant les prix du gazole applicable aux boulangeries industrielles et aux entreprises, coopératives et associations du secteur agro-pastoral et halieutique Le ministre d’Etat, ministre du commerce, des approvisionnements et de la consommation, Le ministre de l’économie et des ﬁ nances, Le ministre des hydrocarbures, et Le ministre du budget, des comptes publics et du portefeuille public, Vu la Constitution ;
+Vu la loi n° 6-94 du 1er juin 1994 portant réglementation des prix, normes commerciales, constatation et répression des fraudes ;
+Vu la loi n° 6-2001 du 19 octobre 2001 organisant les activités de rafﬁ nage, d’importation, d’exportation, de transit, de réexportation, de stockage, de transport massif, de distribution et commercialisation des hydrocarbures et des produits dérivés des hydrocarbures ;
+Vu l’ordonnance n° 3-2002 du 1er mars 2002 portant harmonisation technique de certaines dispositions de la loi n° 6-2001 du 19 octobre 2001 organisant les activités de rafﬁ nage, d’importation, d’exportation,
