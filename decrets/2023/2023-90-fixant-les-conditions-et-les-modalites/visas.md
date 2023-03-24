@@ -1,0 +1,4 @@
+# Visas
+
+Journal ofﬁ ciel de la République du Congo Du jeudi 6 avril 2023 Tableau 6 : Les unités en dehors du SI dont l’usage est accepté avec le SI Grandeur Nom de l’unité Symbole de l’unité Valeur en unités SI Temps Minute heure jour min h d 1 min = 60 s 1 h = 60 min = 3600 s 1 d = 24 h = 86 400 s Longueur unité astronomique au 1 au = 147 597 870 700 m Angle plan et de phase Degré minute seconde ° ‘ “
+1° = (/180) rad l’ = (1/60)° = (/10 8000)rad 1” = (1/60) ‘ = (648 000)rad Superﬁ cie Hectare ha 1 ha = 1 hm2 = 104m2 Volume Litre I, L 1 1 = 1L = 1 dm 3 = 103 cm3 = 10-3 m3 Masse tonne dalton t Da 1 t = 103 kg 1 Da = 1,660 539 066 060(50) x 10-27 kg Energie Electronvolt eV 1 eV = 1,602 176 634 x 10-19 J Logarithme d’un rapport Neper bel décibel Np B dB TITRE III : DISPOSITIONS DIVERSES ET FINALES
