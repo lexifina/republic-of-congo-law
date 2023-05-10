@@ -1,0 +1,11 @@
+# Signatures
+
+Fait à Brazzaville, le 10 mai 2023 Par le Président de la République, Denis SASSOU-N’GUESSO Le Premier ministre, chef du Gouvernement, Anatole Collinet MAKOSSO Le ministre d’Etat, ministre de la fonction publique, du travail et de la sécurité sociale, Firmin AYESSA Le ministre des affaires étrangères, de la francophonie et des Congolais de l’étranger, Jean-Claude GAKOSSO Le ministre de l’économie et des ﬁ nances, Jean-Baptiste ONDAYE Loi n° 6-2023 du 10 mai 2023 autorisant la ratiﬁ cation de la convention n° 129 de l’organisation internationale du travail (OIT) sur l’inspection du travail (agriculture) L’Assemblée nationale et le Sénat ont délibéré et adopté ;
+Le Président de la République promulgue la loi dont la teneur suit :
+Article premier : Est autorisée la ratiﬁ cation de la convention n° 129 internationale du travail (OIT) sur l’inspection du travail (agriculture), adoptée à Genève le 25 juin 1969, dont le texte est annexé à la présente loi.
+Article 2 : La présente loi sera publiée au Journal ofﬁ ciel et exécutée comme loi de l’Etat.
+Fait à Brazzaville, le 10 mai 2023 Par le Président de la République, Denis SASSOU-N’GUESSO Le Premier ministre, chef du Gouvernement, Anatole Collinet MAKOSSO Le ministre d’Etat, ministre de la fonction publique, du travail et de la sécurité sociale, Firmin AYESSA Le ministre des affaires étrangères, de la francophonie et des Congolais de l’étranger, Jean-Claude GAKOSSO Le ministre de l’économie et des ﬁ nances, Jean-Baptiste ONDAYE Le ministre de l’agriculture, de l’élévage et de la pêche, Paul Valentin Ngobo Loi n° 7-2023 du 10 mai 2023 autorisant la ratiﬁ cation de la convention n° 097 de l’organisation internationale du travail (OIT) sur les travailleurs migrants L’Assemblée nationale et le Sénat ont délibéré et adopté ;
+Le Président de la République promulgue la loi dont la teneur suit :
+Article premier : Est autorisée la ratiﬁ cation de la convention n° 097 de l’organisation internationale du travail (OIT) sur les travailleurs migrants, adoptée à Genève le 1er juillet 1949, dont le texte est annexé à la présente loi.
+Article 2 : La présente loi sera publiée au Journal ofﬁ ciel et exécutée comme loi de l’Etat.
+Fait à Brazzaville, le 10 mai 2023 Par le Président de la République, Denis SASSOU-N’GUESSO Le Premier ministre, chef du Gouvernement, Anatole Collinet MAKOSSO
