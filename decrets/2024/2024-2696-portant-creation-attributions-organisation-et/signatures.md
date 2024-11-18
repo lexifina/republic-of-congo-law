@@ -1,0 +1,14 @@
+# Signatures
+
+Fait à Brazzaville, le 18 novenbre 2024 Par le Premier ministre, chef du Gouvernement, Anatole Collinet MAKOSSO Le ministre de la santé et de la population, Gilbert MOKOKI Le ministre de la défense nationale, Charles Richard MONDJO Le ministre de l’intérieur, de la décentralisation et du développement local, Raymond Zéphirin MBOULOU Le ministre de l’agriculture, de l’élevage et de la pêche, Paul Valentin NGOBO Le ministre de l’économie et des Þ nances, Jean-Baptiste ONDAYE La ministre de l’environnement, du développement durable et du bassin du Congo, Arlette SOUDAN-NONAULT Le ministre du budget, des comptes publics et du portefeuille public, Ludovic NGATSE La ministre de l’économie forestière, Rosalie MATONDO B - TEXTES PARTICULIERS MINISTERE DU COMMERCE, DES APPROVISIONNEMENTS ET DE LA CONSOMMATION Acte en abrégé NOMINATION Décret n° 2024-2694 du 14 novembre 2024.
+M. OULA (Gydra Brinniq), administrateur des SAF, est nommé directeur des approvisionnements, de la distribution et des prix à la direction générale du commerce intérieur.
+L’intéressé percevra les indemnités prévues par les textes en vigueur.
+Le présent décret, qui abroge toutes dispositions antérieures contraires, prend effet à compter de la date de prise de fonctions de l’intéressé.
+DISPENSE DE L’OBLIGATION D’APPORT (RENOUVELLEMENT) Arrêté n° 25662 du 18 novenhre 2024 portant renouvellement de la dispense de l’obligation d’apport de la succursale Oceaneering Services Overseas Limited à une société de droit congolais Le ministre d’Etat, ministre du commerce, des approvisionnements et de la consommation, Vu la Constitution ;
+Vu l’acte uniforme révisé du 30 janvier 2014 de l’OHADA relatif au droit des sociétés commerciales et du groupement d’intérêt économique ;
+Vu la loi n° 19-2005 du 24 novembre 2005 règlementant l’exercice de la profession de commerçant en République du Congo ; Vu le décret n° 2021-300 du 12 mai 2021 portant nomination du Premier ministre, chef du Gouvernement ;
+Vu le décret n° 2021-327 du 6 juillet 2021 relatif aux attributions du ministre du commerce, des approvisionnements et de la consommation ;
+Vu le décret n° 2022-1850 du 24 septembre 2022 portant nomination des membres du Gouvernement ;
+Vu l’arrêté n° 932/MCEC-CAB du 15 février 2017 portant dispense de l’obligation d’apport de la succursale Oceaneering Services Overseas Limited à une société de droit congolais ;
+Vu l’arrêté n° 3712/MCAC-CAB du 13 avril 2023 portant renouvellement de l’obligation d’apport de la succursale Oceaneering Services Overseas Limited à une société de droit congolais, Arrête :
+Article premier : La dispense de l’obligation d’apport à une société de droit congolais, accordée à la succursale Oceaneering Services Overseas Limited par arrêté n° 932/MCEC-CAB du 15 février 2017 susvisé, est renouvelée pour une durée de deux (2) ans, allant du 2 octobre 2024 au 1er octobre 2026.
