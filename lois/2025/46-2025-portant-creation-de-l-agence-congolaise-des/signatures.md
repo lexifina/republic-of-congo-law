@@ -1,0 +1,4 @@
+# Signatures
+
+Fait à Brazzaville, le 31 décembre 2025 Par le Président de la République, Denis SASSOU-N’GUESSO Le Premier ministre, chef du Gouvernement, Anatole Collinet MAKOSSO La ministre des transports, de l’aviation civile et de la marine marchande, Ingrid Olga Ghislaine EBOUKA-BABACKAS Pour le ministre d’Etat, ministre de la fonction publique, du travail et de la sécurité sociale, en mission :
+Le ministre d’Etat, ministre du commerce, des approvisionnements et de la consommation, Alphonse Claude N’SILOU Le ministre de l’intérieur et de la décentralisation, Raymond Zéphirin MBOULOU Le ministre des affaires étrangères, de la francophonie et des Congolais de l’étranger, Jean Claude GAKOSSO Le ministre des finances, du budget et du portefeuille public, Christian YOKA Le ministre de l’économie, du plan et de l’intégration régionale, Ludovic NGATSE La ministre de l’environnement, du développement durable et du bassin du Congo, Arlette SOUDAN-NONAULT
