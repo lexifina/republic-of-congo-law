@@ -1,0 +1,39 @@
+{
+ "country": "CG",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution de la République du Congo du 25 octobre 2015",
+   "url": "https://sgg.cg/droit-congolais/constitution.html",
+   "versions": [
+    {
+     "from": "2015-11-06",
+     "units": 247,
+     "source_url": "https://sgg.cg/JO/2015/congo-jo-2015-08-sp.pdf",
+     "sha256": "d64274efa4c1d39758ebafef721d567a6136357fbd861f750ce4ed78087740bc"
+    },
+    {
+     "from": "2022-01-10",
+     "units": 247,
+     "source_url": "https://sgg.cg/JO/2022/congo-jo-2022-01-sp.pdf",
+     "sha256": "ee73513ba8ae93558dc5caba09f829e837745dbc9bb9a04dac9d24c6ac2e478e"
+    }
+   ]
+  },
+  {
+   "slug": "donnees-personnelles",
+   "short": "Loi 29-2019",
+   "title": "Loi n° 29-2019 du 10 octobre 2019 portant protection des données à caractère personnel",
+   "url": "https://sgg.cg/JO/2019/congo-jo-2019-45.pdf",
+   "versions": [
+    {
+     "from": "2019-11-07",
+     "units": 101,
+     "source_url": "https://sgg.cg/JO/2019/congo-jo-2019-45.pdf",
+     "sha256": "64e572069788b0fcdedcb4542e6ad49cc72f9c3c4b2775a1008f91493adb836a"
+    }
+   ]
+  }
+ ]
+}
