@@ -53,9 +53,9 @@ def page_lines(page):
     raw.sort(key=lambda r: (round(r[1]), r[0]))
     merged = []
     for r in raw:
-        side = 'L' if r[0] < mid - 5 else 'R'
+        side = 'L' if r[0] < mid - 8 else 'R'
         for m in merged:
-            mside = 'L' if m[0] < mid - 5 else 'R'
+            mside = 'L' if m[0] < mid - 8 else 'R'
             if abs(m[1] - r[1]) < 3 and mside == side and r[0] >= m[2] - 2 and (r[0] - m[2]) < 60:
                 m[4] = m[4].rstrip() + ' ' + r[4].lstrip()
                 m[2] = max(m[2], r[2])
@@ -69,7 +69,7 @@ def page_lines(page):
         band = sum(1 for y in fw if y < y0 - 0.5)
         if full:
             col, key = 'F', (band, 3, y0, x0)
-        elif x0 < mid:
+        elif x0 < mid - 8:
             col, key = 'L', (band, 1, y0, x0)
         else:
             col, key = 'R', (band, 2, y0, x0)
@@ -130,6 +130,8 @@ def paragraphs(pdf_path, start_re, end_re, first_page=0, last_page=None):
                 short = prev['x1'] < edges.get(prev['col'], prev['x1']) - 18 if prev['page'] == pn else prev['short']
                 if re.match(r'^(-|•)\s*\S', t) or re.match(r'^Article\s+(premier|\d+)', t):
                     new = True
+                elif is_caps(t) != is_caps(prev['text']):
+                    new = True
                 elif cur.endswith('-') and not cur.endswith(' -') and cur != '-':
                     new = False
                 elif re.fullmatch(r'-|•', cur.strip()):
@@ -161,6 +163,11 @@ def paragraphs(pdf_path, start_re, end_re, first_page=0, last_page=None):
     if cur:
         paras.append(cur)
     return [clean(p) for p in paras]
+
+
+def is_caps(t):
+    letters = [c for c in t if c.isalpha()]
+    return len(letters) >= 4 and all(c.isupper() for c in letters)
 
 
 def clean(p):
