@@ -1043,7 +1043,12 @@
       "art-193": {
        "label": "Article 193",
        "kind": "art",
-       "text": "# Article 193\nLes membres de l’Assemblée nationale et du Sénat, le Premier ministre, les ministres, les membres de la Cour suprême et les membres de la Cour constitutionnelle, sont justiciables devant la Haute Cour de justice, pour les actes qualifiés crimes ou délits commis dans l’exercice de leurs fonctions. Ils sont mis en accusation par le Parlement réuni en congrès statuant par un vote au scrutin secret, à la majorité des deux tiers de ses membres.\nArticles 194 : Les co-auteurs et les complices des personnes visées aux articles 192 et 193 ci-dessus sont également justiciables devant la Haute Cour de justice, sans qu’il soit nécessaire que l’acte de mise en accusation les concernant émane du Parlement.\n"
+       "text": "# Article 193\nLes membres de l’Assemblée nationale et du Sénat, le Premier ministre, les ministres, les membres de la Cour suprême et les membres de la Cour constitutionnelle, sont justiciables devant la Haute Cour de justice, pour les actes qualifiés crimes ou délits commis dans l’exercice de leurs fonctions. Ils sont mis en accusation par le Parlement réuni en congrès statuant par un vote au scrutin secret, à la majorité des deux tiers de ses membres.\n"
+      },
+      "art-194": {
+       "label": "Article 194",
+       "kind": "art",
+       "text": "# Article 194\nLes co-auteurs et les complices des personnes visées aux articles 192 et 193 ci-dessus sont également justiciables devant la Haute Cour de justice, sans qu’il soit nécessaire que l’acte de mise en accusation les concernant émane du Parlement.\n"
       },
       "art-195": {
        "label": "Article 195",
@@ -2282,7 +2287,12 @@
       "art-193": {
        "label": "Article 193",
        "kind": "art",
-       "text": "# Article 193\nLes membres de l’Assemblée nationale et du Sénat, le Premier ministre, les ministres, les membres de la Cour suprême et les membres de la Cour constitutionnelle, sont justiciables devant la Haute Cour de justice, pour les actes qualifiés crimes ou délits commis dans l’exercice de leurs fonctions. Ils sont mis en accusation par le Parlement réuni en congrès statuant par un vote au scrutin secret, à la majorité des deux tiers de ses membres.\nArticles 194 : Les co-auteurs et les complices des personnes visées aux articles 192 et 193 ci-dessus sont également justiciables devant la Haute Cour de justice, sans qu’il soit nécessaire que l’acte de mise en accusation les concernant émane du Parlement.\n"
+       "text": "# Article 193\nLes membres de l’Assemblée nationale et du Sénat, le Premier ministre, les ministres, les membres de la Cour suprême et les membres de la Cour constitutionnelle, sont justiciables devant la Haute Cour de justice, pour les actes qualifiés crimes ou délits commis dans l’exercice de leurs fonctions. Ils sont mis en accusation par le Parlement réuni en congrès statuant par un vote au scrutin secret, à la majorité des deux tiers de ses membres.\n"
+      },
+      "art-194": {
+       "label": "Article 194",
+       "kind": "art",
+       "text": "# Article 194\nLes co-auteurs et les complices des personnes visées aux articles 192 et 193 ci-dessus sont également justiciables devant la Haute Cour de justice, sans qu’il soit nécessaire que l’acte de mise en accusation les concernant émane du Parlement.\n"
       },
       "art-195": {
        "label": "Article 195",
@@ -3087,6 +3097,7 @@
   "Loi n° 29-2019 art. 100 gives existing processing one or two years from entry into force to comply; this is a compliance period, not a commencement, so it is not encoded in applies.",
   "Words hyphenated at a JO line end are rejoined without the hyphen unless one side is a known compound part (quatre-vingt, celui-ci, peut-être and the like); see jo_text.KEEP_HYPHEN_LEFT/RIGHT.",
   "Titles, sub-titles and chapter headings are not units; each unit is the preamble or one article, one paragraph or list item per line.",
+  "JO 2015 prints \"Articles 194 :\" (a typo for Article 194); the parser reads it as Article 194.",
   "Code pénal not built: SGG lists the Code pénal du Congo as the French code applied by arrêté of 13 February 1882, not published in the JO and with no text on sgg.cg; amendments are scattered ordinances (e.g. Ord. 62-13). Skipped under the 45-minute rule.",
   "Code de la famille (1984) not built: the SGG PDF is a scan with no text layer (no OCR by rule)."
  ],

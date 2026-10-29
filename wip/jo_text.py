@@ -128,7 +128,7 @@ def paragraphs(pdf_path, start_re, end_re, first_page=0, last_page=None, include
                 same_col = prev['page'] == pn and (prev['col'] == ln['col'] or 'F' in (prev['col'], ln['col']))
                 gap = ln['y0'] - prev['y0'] if same_col else None
                 short = prev['x1'] < edges.get(prev['col'], prev['x1']) - 18 if prev['page'] == pn else prev['short']
-                if re.match(r'^(-|•)\s*\S', t) or re.match(r'^Article\s+(premier|\d+)', t):
+                if re.match(r'^(-|•)\s*\S', t) or re.match(r'^Articles?\s+(premier|\d+)', t):
                     new = True
                 elif is_caps(t) != is_caps(prev['text']):
                     new = True

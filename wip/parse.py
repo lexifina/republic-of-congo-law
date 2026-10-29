@@ -36,7 +36,7 @@ def sha(url):
         return hashlib.sha256(f.read()).hexdigest()
 
 
-ART_RE = re.compile(r'^Article\s+(premier|\d+)(\s+(?:bis|ter|nouveau))?\s*:\s*(.*)$')
+ART_RE = re.compile(r'^Articles?\s+(premier|\d+)(\s+(?:bis|ter|nouveau))?\s*:\s*(.*)$')
 
 
 def heading_label(num, suffix):
@@ -197,6 +197,7 @@ def main():
             'Loi n° 29-2019 art. 100 gives existing processing one or two years from entry into force to comply; this is a compliance period, not a commencement, so it is not encoded in applies.',
             'Words hyphenated at a JO line end are rejoined without the hyphen unless one side is a known compound part (quatre-vingt, celui-ci, peut-être and the like); see jo_text.KEEP_HYPHEN_LEFT/RIGHT.',
             'Titles, sub-titles and chapter headings are not units; each unit is the preamble or one article, one paragraph or list item per line.',
+            'JO 2015 prints "Articles 194 :" (a typo for Article 194); the parser reads it as Article 194.',
             'Code pénal not built: SGG lists the Code pénal du Congo as the French code applied by arrêté of 13 February 1882, not published in the JO and with no text on sgg.cg; amendments are scattered ordinances (e.g. Ord. 62-13). Skipped under the 45-minute rule.',
             'Code de la famille (1984) not built: the SGG PDF is a scan with no text layer (no OCR by rule).',
         ],
