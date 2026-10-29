@@ -32,7 +32,6 @@ def norm_chars(s):
         s = s.replace(k + ' ', v).replace(k, v)
     s = s.replace('\xa0', ' ').replace(' ', ' ').replace(' ', ' ').replace('`', '’')
     s = s.replace("'", '’')
-    s = s.replace('–', '-').replace('—', '-') if False else s
     return s
 
 
@@ -167,5 +166,4 @@ def paragraphs(pdf_path, start_re, end_re, first_page=0, last_page=None):
 def clean(p):
     p = re.sub(r'\s+', ' ', p).strip()
     p = re.sub(r'^[-•]\s*', '- ', p)
-    p = p.replace(' ,', ',').replace(' .', '.') if False else p
     return p
