@@ -98,7 +98,7 @@ def constitution_2015():
 
 def lc_2022_art157():
     paras = jo_text.paragraphs(fetch.path_for(JO2022), r'^Article premier : L’article 157',
-                               r'^Fait à Brazzaville')
+                               r'^Fait à Brazzaville', include_end=False)
     body = []
     on = False
     for p in paras:
@@ -115,7 +115,7 @@ def lc_2022_art157():
 
 def loi_2019_29():
     paras = jo_text.paragraphs(fetch.path_for(JO2019), r'^Loi n° 29-2019 du 10 octobre 2019 portant',
-                               r'^Fait à Brazzaville', first_page=1)
+                               r'^Fait à Brazzaville', first_page=1, include_end=False)
     return to_units(split_articles(paras))
 
 

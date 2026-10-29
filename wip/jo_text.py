@@ -101,7 +101,7 @@ def dehyphenate(prev, nxt):
     return prev[:-1] + nxt
 
 
-def paragraphs(pdf_path, start_re, end_re, first_page=0, last_page=None):
+def paragraphs(pdf_path, start_re, end_re, first_page=0, last_page=None, include_end=True):
     """Paragraphs (strings) of the act starting at the line matching start_re and ending after end_re."""
     doc = fitz.open(pdf_path)
     last_page = doc.page_count - 1 if last_page is None else last_page
@@ -125,7 +125,7 @@ def paragraphs(pdf_path, start_re, end_re, first_page=0, last_page=None):
             if cur is None:
                 new = True
             else:
-                same_col = prev['col'] == ln['col'] and prev['page'] == pn
+                same_col = prev['page'] == pn and (prev['col'] == ln['col'] or 'F' in (prev['col'], ln['col']))
                 gap = ln['y0'] - prev['y0'] if same_col else None
                 short = prev['x1'] < edges.get(prev['col'], prev['x1']) - 18 if prev['page'] == pn else prev['short']
                 if re.match(r'^(-|•)\s*\S', t) or re.match(r'^Article\s+(premier|\d+)', t):
@@ -158,7 +158,12 @@ def paragraphs(pdf_path, start_re, end_re, first_page=0, last_page=None):
             ln['short'] = ln['x1'] < edges.get(ln['col'], ln['x1']) - 18
             prev = ln
             if re.search(end_re, t):
-                paras.append(cur)
+                if not include_end:
+                    cur = cur[:len(cur) - len(t)].rstrip() if cur.endswith(t) else cur
+                    if cur == '' or cur == t:
+                        cur = None
+                if cur:
+                    paras.append(cur)
                 return [clean(p) for p in paras]
     if cur:
         paras.append(cur)
