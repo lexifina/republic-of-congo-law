@@ -1,0 +1,21 @@
+The legal texts are laws of the Republic of the Congo, taken from the Journal officiel de la
+République du Congo as published by the Secrétariat général du Gouvernement (https://sgg.cg),
+retrieved 29-30 October 2026.
+
+Laws, court decisions and decisions of administrative authorities are outside the scope of
+copyright in the Republic of the Congo. Loi n° 24-82 du 7 juillet 1982 sur le droit d'auteur et les
+droits voisins, art. 14: "Nonobstant les dispositions des articles 6 et 7 ci-dessus, les lois, les
+décisions de justice, celles des autorités administratives, ainsi que la traduction officielle de ces
+textes et les nouvelles du jour publiées, radiodiffusées ou communiquées au public, sont hors du
+champ d'application de la présente loi."
+The site sgg.cg states no reuse terms that restrict this, and its robots.txt allows automated access.
+
+Changes made by Lexifina: the text of each act was read from the Journal officiel PDF, its two
+columns joined into paragraphs, hyphenated line breaks rejoined, and each version converted to one
+Markdown file per article, with one paragraph per line, and arranged as git commits dated on the day
+the change took effect. The wording of the law was not changed. The Secrétariat général du
+Gouvernement does not endorse this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
+tools) are dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/
