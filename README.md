@@ -1,5 +1,7 @@
 # Republic of the Congo: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Republic of Congo's national law, which global-law reads at `republic-of-congo/national/acts/`.
+
 The law of the Republic of the Congo (Brazzaville) as a git history: one file per article, one commit per law on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every article; `git log` lists every change to an article; picking a date gives the text in force that day.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `cg/`.
