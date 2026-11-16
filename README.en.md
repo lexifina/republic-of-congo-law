@@ -62,6 +62,7 @@ Each change is credited to the law that made it (`Loi constitutionnelle n° 2-20
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and both must match the corpus the history was built from; it also checks that every commit's trailers parse, that there are no merge commits and that no commit is dated after the build. The results (0 mismatches) are in [`REPRODUCE.md`](REPRODUCE.md); no second build has been compared yet.
 - `tools/build.py` writes the history from that corpus in one pass, and the same corpus always gives the same commit hashes; [`data/corpus.sha256`](data/corpus.sha256) gives the corpus's hash.
 - The text is the Journal officiel PDFs' own text layer, its two columns joined and words split at line ends rejoined (`tools/jo_text.py`); the SGG's HTML copy of the Constitution, which differs in small editorial ways, is used only as a cross-check.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -81,6 +82,10 @@ Each change is credited to the law that made it (`Loi constitutionnelle n° 2-20
 See [`LICENSE`](LICENSE). Laws, court decisions and decisions of administrative authorities are outside the scope of copyright in the Republic of the Congo (Loi n° 24-82 of 7 July 1982, art. 14); the texts are taken from the Journal officiel as published by the Secrétariat général du Gouvernement, which does not endorse this repository. The history, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 

@@ -62,6 +62,7 @@ Chaque modification est attribuée à la loi qui l’a opérée (`Loi constituti
 - `tools/check_repo.py` relit chaque version dans git le jour de son entrée en vigueur et la veille, et les deux doivent correspondre au corpus à partir duquel l’historique a été construit ; il vérifie aussi que les trailers de chaque commit sont analysables, l’absence de commits de fusion et qu’aucun commit n’est daté après la construction. Les résultats (0 écart) figurent dans [`REPRODUCE.md`](REPRODUCE.md) ; aucune seconde construction n’a encore été comparée.
 - `tools/build.py` écrit l’historique à partir de ce corpus en une seule passe, et un même corpus donne toujours les mêmes empreintes de commit ; [`data/corpus.sha256`](data/corpus.sha256) donne l’empreinte du corpus.
 - Le texte est la couche texte propre des PDF du Journal officiel, ses deux colonnes réunies et les mots coupés en fin de ligne recomposés (`tools/jo_text.py`) ; la copie HTML de la Constitution publiée par le SGG, qui en diffère par de légères variantes de forme, ne sert qu’au contrôle croisé.
+- [vulnerabilities/](vulnerabilities/): erreurs de rédaction possibles dans ce droit, trouvées par les détecteurs de global-law et vérifiées à la main. Pas encore lancé.
 
 ## Ce qu’il ne montre pas
 
@@ -83,6 +84,10 @@ Voir [`LICENSE`](LICENSE). Les lois, les décisions de justice et les décisions
 Aucun modèle d’IA n’a rédigé, traduit ni corrigé de texte juridique, et aucun ne s’exécute lors de la construction de l’historique ; les scripts ont été écrits par un modèle d’IA (voir [`REPRODUCE.md`](REPRODUCE.md)).
 
 Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
+
+## Visualisations
+
+- [visualisations/](visualisations/): graphiques tirés de ce dépôt. Pas encore dessinés.
 
 ## En savoir plus
 
