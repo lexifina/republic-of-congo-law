@@ -1,37 +1,43 @@
-# Republic of the Congo: law history in git
+# République du Congo : l’histoire du droit dans git
 
+**Français** · [English](README.en.md)
 
-The law of the Republic of the Congo (Brazzaville) as a git history: one file per article, one commit per version on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every line; `git log` lists every change to an article; picking a date gives the text in force that day.
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/fr/effort-dark.svg">
+<img alt="Le droit de la République du Congo dans ce dépôt : ce qu’il contient, les modifications par année d’entrée en vigueur, l’exhaustivité au regard des sources officielles et l’exactitude de son contenu" src="data/fr/effort-light.svg" width="880">
+</picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the Republic of the Congo's national law, which global-law reads at `republic-of-congo/national/acts/`.
+Le droit de la République du Congo (Brazzaville) sous la forme d’un historique git : un fichier par article, un commit par version à la date de son entrée en vigueur, et la loi auteur de chaque modification comme auteur du commit. `git blame` indique la loi à l’origine de chaque ligne ; `git log` liste toutes les modifications d’un article ; le choix d’une date donne le texte en vigueur ce jour-là.
 
-**What is in it now:** two acts, with three versions: the Constitution of 25 October 2015 (the preamble and 246 articles) as promulgated, and with Article 157, on the state of emergency and the state of siege, as replaced by Loi constitutionnelle n° 2-2022 of 7 January 2022; and Loi n° 29-2019 of 10 October 2019 on the protection of personal data (101 articles), as enacted. Each act's `README.md` ([`constitution/README.md`](constitution/README.md)) lists every provision, how often it changed and when; [`data/laws.csv`](data/laws.csv) lists the laws behind the commits.
+Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de tous les pays : il s’agit ici du droit national de la République du Congo, que global-law lit sous `republic-of-congo/national/acts/`.
 
-Each act is a folder (`constitution/`, `donnees-personnelles/`) with one file per article: `constitution/art-157.md` is Article 157 of the Constitution, and `constitution/preambule.md` its preamble.
+**Contenu actuel :** deux textes, en trois versions : la Constitution du 25 octobre 2015 (le préambule et 246 articles) telle que promulguée, puis avec l’article 157, relatif à l’état d’urgence et à l’état de siège, tel que remplacé par la Loi constitutionnelle n° 2-2022 du 7 janvier 2022 ; et la Loi n° 29-2019 du 10 octobre 2019 portant protection des données à caractère personnel (101 articles), telle qu’adoptée. Le `README.md` de chaque texte ([`constitution/README.md`](constitution/README.md)) liste chaque disposition, le nombre de ses modifications et leurs dates ; [`data/laws.csv`](data/laws.csv) liste les lois à l’origine des commits.
 
-The text is in French, as the Journal officiel prints it. An English translation is not part of this record.
+Chaque texte est un dossier (`constitution/`, `donnees-personnelles/`) avec un fichier par article : `constitution/art-157.md` est l’article 157 de la Constitution, et `constitution/preambule.md` son préambule.
 
-## Questions as git commands
+Le texte est en français, tel que l’imprime le Journal officiel. Une traduction anglaise ne fait pas partie de ce corpus.
 
-| Question | Command |
+## Questions sous forme de commandes git
+
+| Question | Commande |
 | --- | --- |
-| Every change to Article 157 of the Constitution | `git log -p --word-diff -- constitution/art-157.md` |
-| Which law wrote each line of Article 157? | `git blame constitution/art-157.md` |
-| Every version of Article 157, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- constitution/art-157.md` |
-| Article 157 as in force on 1 January 2020 | `python tools/on.py 2020-01-01 constitution 157` |
+| Toutes les modifications de l’article 157 de la Constitution | `git log -p --word-diff -- constitution/art-157.md` |
+| Quelle loi a rédigé chaque ligne de l’article 157 ? | `git blame constitution/art-157.md` |
+| Toutes les versions de l’article 157, avec la date d’entrée en vigueur de chacune | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- constitution/art-157.md` |
+| L’article 157 tel qu’en vigueur au 1er janvier 2020 | `python tools/on.py 2020-01-01 constitution 157` |
 
-Each version is also tagged by act and day (`constitution/2015-11-06`, `constitution/2022-01-10`, `donnees-personnelles/2019-11-07`).
+Chaque version porte aussi une étiquette par texte et par date (`constitution/2015-11-06`, `constitution/2022-01-10`, `donnees-personnelles/2019-11-07`).
 
-**Outside git**, we also host this record publicly, for free:
+**En dehors de git**, nous hébergeons aussi ce corpus publiquement, gratuitement :
 
-- **[Ask Claude about the law of the Republic of the Congo](https://global-law.lexifina.com/v1/try_claude?country=republic-of-congo)**: opens Claude with a first question ready.
-- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=republic-of-congo)**: the same question in ChatGPT.
-- **[Search the law of the Republic of the Congo on our site](https://lexifina.com/law?country=republic-of-congo&q=%C3%A9tat+d%27urgence)**: a search for "état d'urgence" (state of emergency), with each provision's text and its versions, no account needed.
-- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=%C3%A9tat+d%27urgence&jurisdiction=republic-of-congo)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Interroger Claude sur le droit de la République du Congo](https://global-law.lexifina.com/v1/try_claude?country=republic-of-congo)** : ouvre Claude avec une première question prête.
+- **[Interroger ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=republic-of-congo)** : la même question dans ChatGPT.
+- **[Rechercher dans le droit de la République du Congo sur notre site](https://lexifina.com/law?country=republic-of-congo&q=%C3%A9tat+d%27urgence)** : une recherche de « état d'urgence », avec le texte de chaque disposition et ses versions, sans compte.
+- **[API REST pour développeurs](https://global-law.lexifina.com/v1/search_law?query=%C3%A9tat+d%27urgence&jurisdiction=republic-of-congo)** : la même recherche au format JSON, sans clé. Voir la [documentation ici](https://lexifina.com/api/global-law).
 
-Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in French or in English.
+Les deux assistants lisent le corpus au moyen du connecteur gratuit Global law (MCP, `https://global-law.lexifina.com/mcp`) ; la première fois, la conversation vous donne le lien qui l’ajoute. Posez vos questions en français ou en anglais.
 
-**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+**L’héberger vous-même, simplement.** Il suffit de git et de Python, et les outils s’exécutent sur votre machine :
 
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
@@ -39,54 +45,52 @@ python3 tools/countries.py add republic-of-congo/national/acts
 python3 tools/law.py show 2026-01-01 republic-of-congo/national/acts/constitution/art-157.md
 ```
 
-Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+Ouvert dans Claude Code, Cursor, VS Code ou Codex, le clone démarre aussi un serveur MCP local doté des mêmes outils ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
 ## Dates
 
-Each commit is dated at noon, Africa/Brazzaville, on the day the version took effect, and carries it in its `In-force:` trailer (the day of enactment is in `Enacted:`, the Journal officiel's in `Published:`):
+Chaque commit est daté à midi, heure Africa/Brazzaville, du jour où la version est entrée en vigueur, et porte cette date dans son trailer `In-force:` (la date d’adoption figure dans `Enacted:`, celle du Journal officiel dans `Published:`) :
 
-- the Constitution: 6 November 2015, its promulgation (art. 246: in force "dès sa promulgation"), printed in the Journal officiel édition spéciale n° 8 of that day;
-- Loi n° 29-2019 and Loi constitutionnelle n° 2-2022 name no day of their own, so each is dated by its Journal officiel issue: n° 45 of 7 November 2019 and édition spéciale n° 1 of 10 January 2022 (no general statute on when laws take effect was found on the SGG's site);
-- the periods that Loi n° 29-2019 (art. 100) gives existing processing to comply are not commencement dates and do not change its date.
+- la Constitution : le 6 novembre 2015, date de sa promulgation (art. 246 : en vigueur « dès sa promulgation »), publiée au Journal officiel édition spéciale n° 8 du même jour ;
+- la Loi n° 29-2019 et la Loi constitutionnelle n° 2-2022 ne fixent aucune date propre ; chacune est donc datée de son numéro du Journal officiel : le n° 45 du 7 novembre 2019 et l’édition spéciale n° 1 du 10 janvier 2022 (aucun texte général sur l’entrée en vigueur des lois n’a été trouvé sur le site du SGG) ;
+- les délais que la Loi n° 29-2019 (art. 100) accorde aux traitements existants pour se mettre en conformité ne sont pas des dates d’entrée en vigueur et ne modifient pas sa date.
 
-Each change is credited to the law that made it (`Loi constitutionnelle n° 2-2022`), and each act's first version to the act itself (`Constitution du 25 octobre 2015`, adopted by referendum); the committer is always Lexifina.
+Chaque modification est attribuée à la loi qui l’a opérée (`Loi constitutionnelle n° 2-2022`), et la première version de chaque texte au texte lui-même (`Constitution du 25 octobre 2015`, adoptée par référendum) ; le committer est toujours Lexifina.
 
-## How it is checked
+## Méthode de vérification
 
-- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and both must match the corpus the history was built from; it also checks that every commit's trailers parse, that there are no merge commits and that no commit is dated after the build. The results (0 mismatches) are in [`REPRODUCE.md`](REPRODUCE.md); no second build has been compared yet.
-- `tools/build.py` writes the history from that corpus in one pass, and the same corpus always gives the same commit hashes; [`data/corpus.sha256`](data/corpus.sha256) gives the corpus's hash.
-- The text is the Journal officiel PDFs' own text layer, its two columns joined and words split at line ends rejoined (`tools/jo_text.py`); the SGG's HTML copy of the Constitution, which differs in small editorial ways, is used only as a cross-check.
+- `tools/check_repo.py` relit chaque version dans git le jour de son entrée en vigueur et la veille, et les deux doivent correspondre au corpus à partir duquel l’historique a été construit ; il vérifie aussi que les trailers de chaque commit sont analysables, l’absence de commits de fusion et qu’aucun commit n’est daté après la construction. Les résultats (0 écart) figurent dans [`REPRODUCE.md`](REPRODUCE.md) ; aucune seconde construction n’a encore été comparée.
+- `tools/build.py` écrit l’historique à partir de ce corpus en une seule passe, et un même corpus donne toujours les mêmes empreintes de commit ; [`data/corpus.sha256`](data/corpus.sha256) donne l’empreinte du corpus.
+- Le texte est la couche texte propre des PDF du Journal officiel, ses deux colonnes réunies et les mots coupés en fin de ligne recomposés (`tools/jo_text.py`) ; la copie HTML de la Constitution publiée par le SGG, qui en diffère par de légères variantes de forme, ne sert qu’au contrôle croisé.
 
-## What it does not show
+## Ce qu’il ne montre pas
 
-- **Most other law.** Other codes and laws are not yet included. The Code pénal has no text here: the SGG lists it as the French code applied by the arrêté of 13 February 1882, not published in the Journal officiel; the SGG's copy of the Code de la famille (1984) is a scan, and scans are not transcribed.
-- **Consolidated versions.** The Republic of the Congo publishes no official dated consolidations, so a version exists here only where a law in the Journal officiel changed the text.
-- **How a provision applies**: commencement conditions, compliance periods and transitional rules are not encoded; the text shown on a day may not be the whole law that applied.
-- **Headings.** Title, sub-title and chapter headings are not in the files; each file is the preamble or one article.
+- **La plupart des autres textes.** Les autres codes et lois n’y figurent pas encore. Le Code pénal n’a pas de texte ici : le SGG le présente comme le code français rendu applicable par l’arrêté du 13 février 1882, non publié au Journal officiel ; la copie du Code de la famille (1984) proposée par le SGG est une numérisation, et les numérisations ne sont pas transcrites.
+- **Les versions consolidées.** La République du Congo ne publie aucune consolidation officielle datée ; une version n’existe donc ici que lorsqu’une loi publiée au Journal officiel a modifié le texte.
+- **Les modalités d’application d’une disposition** : les conditions d’entrée en vigueur, les délais de mise en conformité et les dispositions transitoires ne sont pas codés ; le texte affiché à une date peut ne pas constituer l’intégralité du droit alors applicable.
+- **Les intitulés.** Les intitulés des titres, sous-titres et chapitres ne figurent pas dans les fichiers ; chaque fichier est le préambule ou un article.
 
 ## Sources
 
-| Source | Kind | Past versions | Notes |
+| Source | Nature | Versions antérieures | Remarques |
 | --- | --- | --- | --- |
-| [Journal officiel de la République du Congo](https://sgg.cg) (Secrétariat général du Gouvernement) | The official gazette, as PDFs with a text layer | each issue as published | The Constitution (JO édition spéciale n° 8 of 6 November 2015), Loi n° 29-2019 (JO n° 45 of 7 November 2019) and Loi constitutionnelle n° 2-2022 (JO édition spéciale n° 1 of 10 January 2022) |
+| [Journal officiel de la République du Congo](https://sgg.cg) (Secrétariat général du Gouvernement) | Le journal officiel, en PDF dotés d’une couche texte | chaque numéro tel que publié | La Constitution (JO édition spéciale n° 8 du 6 novembre 2015), la Loi n° 29-2019 (JO n° 45 du 7 novembre 2019) et la Loi constitutionnelle n° 2-2022 (JO édition spéciale n° 1 du 10 janvier 2022) |
 
 ## Licence
 
-See [`LICENSE`](LICENSE). Laws, court decisions and decisions of administrative authorities are outside the scope of copyright in the Republic of the Congo (Loi n° 24-82 of 7 July 1982, art. 14); the texts are taken from the Journal officiel as published by the Secrétariat général du Gouvernement, which does not endorse this repository. The history, commit messages, tables and tools are CC0 1.0.
+Voir [`LICENSE`](LICENSE). Les lois, les décisions de justice et les décisions des autorités administratives sont exclues du champ du droit d’auteur en République du Congo (Loi n° 24-82 du 7 juillet 1982, art. 14) ; les textes sont repris du Journal officiel tel que publié par le Secrétariat général du Gouvernement, qui n’approuve pas ce dépôt. L’historique, les messages de commit, les tableaux et les outils sont sous licence CC0 1.0.
 
-No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+Aucun modèle d’IA n’a rédigé, traduit ni corrigé de texte juridique, et aucun ne s’exécute lors de la construction de l’historique ; les scripts ont été écrits par un modèle d’IA (voir [`REPRODUCE.md`](REPRODUCE.md)).
 
-## En français
+Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
 
-L'histoire du droit de la République du Congo (Brazzaville) dans git : un fichier par article, chaque version enregistrée au jour de son entrée en vigueur, avec pour auteur la loi qui a modifié le texte. Le dépôt contient deux textes publiés au Journal officiel : la Constitution du 25 octobre 2015 en deux versions (telle que promulguée, puis avec l'article 157, sur l'état d'urgence et l'état de siège, remplacé par la loi constitutionnelle n° 2-2022 du 7 janvier 2022) et la loi n° 29-2019 du 10 octobre 2019 portant protection des données à caractère personnel, telle qu'adoptée. Texte en vigueur à une date : `python tools/on.py 2020-01-01 constitution 157`.
+## En savoir plus
 
-## More
+Dans le dépôt [lexifina/global-law](https://github.com/lexifina/global-law) (pages en anglais) :
 
-From [lexifina/global-law](https://github.com/lexifina/global-law):
-
-- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
-- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
-- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
-- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
-- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
-- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): toutes les fonctionnalités et ce que chaque corpus doit prendre en charge (`git blame`, `law.py`, outils MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions et réponses · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposer une modification · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): serveur MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): comment il a été construit · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): à quel point chaque corpus est à jour · [Surveillance](https://github.com/lexifina/global-law/tree/main/monitoring): si les mises à jour fonctionnent · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): comment chaque source officielle est surveillée pour repérer les modifications
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): la rapidité des outils, mesurée
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): graphiques et liens à travers le droit du monde entier
+- [Vulnérabilités](https://github.com/lexifina/global-law/tree/main/vulnerabilities): erreurs dans les textes tels qu’ils ont été publiés
