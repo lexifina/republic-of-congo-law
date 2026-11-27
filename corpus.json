@@ -4,15 +4,80 @@
  "generated_from": "runner state",
  "acts": [
   {
-   "id": "decrets/2009/2009-157-portant-attributions-organisation-et",
+   "id": "constitution",
+   "kind": "constitution",
+   "number": "",
+   "date": "2015-11-06",
+   "title": "Constitution de la République du Congo du 25 octobre 2015 (modifiée par la Loi constitutionnelle n° 2-2022)",
+   "source": "https://sgg.cg/JO/2015/congo-jo-2015-08-sp.pdf",
+   "text_layer": "born-digital",
+   "articles": 246
+  },
+  {
+   "id": "decrets/2009/2009-156-portant-code-des-marches-publics",
    "kind": "decret",
-   "number": "2009-157",
+   "number": "2009-156",
    "date": "2009-05-20",
-   "title": "Décret n° 2009-157 du 20 mai 2009 portant attributions, organisation et fonctionnement de l’autorité de régulation des marchés publics ...........................",
+   "title": "Décret n° 2009-156 du 20 mai 2009 portant code des marchés publics",
    "source": "https://www.finances.gouv.cg/sites/default/files/documents/Code%20des%20march%C3%A9s%20publics%20CG.pdf",
    "record": "https://www.finances.gouv.cg/sites/default/files/documents/Code%20des%20march%C3%A9s%20publics%20CG.pdf",
    "text_layer": "born-digital",
    "articles": 152
+  },
+  {
+   "id": "decrets/2009/2009-158-portant-reorganisation-de-la-delegation-generale",
+   "kind": "decret",
+   "number": "2009-158",
+   "date": "2009-05-20",
+   "title": "Décret n° 2009-158 du 20 mai 2009 portant réorganisation de la délégation générale des grands travaux",
+   "source": "https://www.finances.gouv.cg/sites/default/files/documents/Code%20des%20march%C3%A9s%20publics%20CG.pdf",
+   "record": "https://www.finances.gouv.cg/sites/default/files/documents/Code%20des%20march%C3%A9s%20publics%20CG.pdf",
+   "text_layer": "born-digital",
+   "articles": 26
+  },
+  {
+   "id": "decrets/2009/2009-159-portant-attributions-organisation-et",
+   "kind": "decret",
+   "number": "2009-159",
+   "date": "2009-05-20",
+   "title": "Décret n° 2009-159 du 20 mai 2009 portant attributions, organisation et fonctionnement de la direction générale du contrôle des marchés publics",
+   "source": "https://www.finances.gouv.cg/sites/default/files/documents/Code%20des%20march%C3%A9s%20publics%20CG.pdf",
+   "record": "https://www.finances.gouv.cg/sites/default/files/documents/Code%20des%20march%C3%A9s%20publics%20CG.pdf",
+   "text_layer": "born-digital",
+   "articles": 32
+  },
+  {
+   "id": "decrets/2009/2009-160-fixant-les-modalites-dapprobation-des-marches",
+   "kind": "decret",
+   "number": "2009-160",
+   "date": "2009-05-20",
+   "title": "Décret n° 2009-160 du 20 mai 2009 fixant les modalités d’approbation des marchés publics",
+   "source": "https://www.finances.gouv.cg/sites/default/files/documents/Code%20des%20march%C3%A9s%20publics%20CG.pdf",
+   "record": "https://www.finances.gouv.cg/sites/default/files/documents/Code%20des%20march%C3%A9s%20publics%20CG.pdf",
+   "text_layer": "born-digital",
+   "articles": 19
+  },
+  {
+   "id": "decrets/2009/2009-161-portant-organisation-et-fonctionnement-de-la",
+   "kind": "decret",
+   "number": "2009-161",
+   "date": "2009-05-20",
+   "title": "Décret n° 2009-161 du 20 mai 2009 portant organisation et fonctionnement de la cellule de gestion des marchés publics",
+   "source": "https://www.finances.gouv.cg/sites/default/files/documents/Code%20des%20march%C3%A9s%20publics%20CG.pdf",
+   "record": "https://www.finances.gouv.cg/sites/default/files/documents/Code%20des%20march%C3%A9s%20publics%20CG.pdf",
+   "text_layer": "born-digital",
+   "articles": 26
+  },
+  {
+   "id": "decrets/2009/2009-162-fixant-les-seuils-de-passation-de-controle-et",
+   "kind": "decret",
+   "number": "2009-162",
+   "date": "2009-05-20",
+   "title": "Décret n° 2009-162 du 20 mai 2009 fixant les seuils de passation, de contrôle et d’approbation des marchés publics",
+   "source": "https://www.finances.gouv.cg/sites/default/files/documents/Code%20des%20march%C3%A9s%20publics%20CG.pdf",
+   "record": "https://www.finances.gouv.cg/sites/default/files/documents/Code%20des%20march%C3%A9s%20publics%20CG.pdf",
+   "text_layer": "born-digital",
+   "articles": 21
   },
   {
    "id": "lois/1962/4-62-portant-creation-de-la-cour-supreme",
@@ -662,6 +727,16 @@
    "record": "https://faolex.fao.org/en/documents/LEX-FAOC188591/loi-n-24-2019-du-12-juillet-2019-portant-creation-du-port-au-cog-2019",
    "text_layer": "born-digital",
    "articles": 9
+  },
+  {
+   "id": "lois/2019/29-2019-portant-protection-des-donnees-a-caractere-personnel",
+   "kind": "loi",
+   "number": "29-2019",
+   "date": "2019-11-07",
+   "title": "Loi n° 29-2019 du 10 octobre 2019 portant protection des données à caractère personnel",
+   "source": "https://sgg.cg/JO/2019/congo-jo-2019-45.pdf",
+   "text_layer": "born-digital",
+   "articles": 101
   },
   {
    "id": "lois/2019/36-2019-portant-creation-de-lautorite-de-regulation-des",
