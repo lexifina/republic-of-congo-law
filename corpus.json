@@ -268,6 +268,17 @@
    "articles": 9
   },
   {
+   "id": "arretes/2008/8906-relatif-a-la-mise-en-conformite-du-materiel",
+   "kind": "arrete",
+   "number": "8906",
+   "date": "2008-11-25",
+   "title": "Arrêté n° 8906 du 25 novembre 2008 relatif à la mise en conformité du matériel électrique utilisable en atmosphère explosive.",
+   "source": "https://faolex.fao.org/docs/pdf/con86727.pdf",
+   "record": "https://faolex.fao.org/en/documents/LEX-FAOC086727/arrete-n-8906-du-25-novembre-relatif-a-la-mise-en-conformite-cog-2008",
+   "text_layer": "publisher-ocr",
+   "articles": 19
+  },
+  {
    "id": "arretes/2008/8907-portant-creation-organisation-et-attributions-du",
    "kind": "arrete",
    "number": "8907",
@@ -6537,6 +6548,17 @@
    "articles": 7
   },
   {
+   "id": "lois/2012/22-2012-autorisant-la-ratification-de-la-convention-sur",
+   "kind": "loi",
+   "number": "22-2012",
+   "date": "2012-09-24",
+   "title": "Loi n° 22-2012 du 24 sept 2012 autorisant la ratification de la convention sur la pêche et la conservation des ressources biologiques de la haute mer.",
+   "source": "https://faolex.fao.org/docs/pdf/con160992.pdf",
+   "record": "https://faolex.fao.org/en/documents/LEX-FAOC160992/loi-n-22-2012-du-24-sept-autorisant-la-ratification-de-la-co-cog-2012",
+   "text_layer": "born-digital",
+   "articles": 3
+  },
+  {
    "id": "lois/2012/23-2012-portant-creation-de-l-institut-national-de",
    "kind": "loi",
    "number": "23-2012",
@@ -7007,6 +7029,17 @@
    "record": "https://faolex.fao.org/en/documents/LEX-FAOC219567/loi-n-32-2020-du-27-juin-2020-autorisant-la-ratification-du-cog-2020",
    "text_layer": "born-digital",
    "articles": 115
+  },
+  {
+   "id": "lois/2020/33-2020-portant-code-forestier",
+   "kind": "loi",
+   "number": "33-2020",
+   "date": "2020-07-08",
+   "title": "Loi nº 33-2020 du 8 juillet 2020 portant Code forestier.",
+   "source": "https://faolex.fao.org/docs/pdf/con197361.pdf",
+   "record": "https://faolex.fao.org/en/documents/LEX-FAOC197361/loi-n-33-2020-du-8-juillet-portant-code-forestier-cog-2020",
+   "text_layer": "born-digital",
+   "articles": 258
   },
   {
    "id": "lois/2020/4-2020-portant-creation-de-lagence-de-developpement-des",
