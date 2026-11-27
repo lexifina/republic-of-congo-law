@@ -4,6 +4,17 @@
  "generated_from": "runner state",
  "acts": [
   {
+   "id": "arretes/1938/sn-0813-relatif-a-la-foret-de-la-patte-d-oie",
+   "kind": "arrete",
+   "number": "sn-0813",
+   "date": "1938-08-13",
+   "title": "Arrêté du 13 Août 1938 relatif à la Forêt de la Patte d'Oie.",
+   "source": "https://faolex.fao.org/docs/pdf/con18118.pdf",
+   "record": "https://faolex.fao.org/en/documents/LEX-FAOC018118/arrete-du-13-aout-1938-relatif-a-la-foret-de-la-patte-d-oie-cog-1938",
+   "text_layer": "born-digital",
+   "articles": 5
+  },
+  {
    "id": "arretes/1967/00362-mef-def-chpp-fixant-les-limites-de-l-aire-d-exploitation",
    "kind": "arrete",
    "number": "00362/MEF-DEF-CHPP",
@@ -13,6 +24,17 @@
    "record": "https://faolex.fao.org/en/documents/LEX-FAOC144569/arrete-n-00362-mef-def-chpp-du-30-mars-1967-fixant-les-limit-cog-1967",
    "text_layer": "born-digital",
    "articles": 5
+  },
+  {
+   "id": "arretes/1991/3282-mffpe-dgef-dff-portant-protection-absolue-de-l-elephant-sur",
+   "kind": "arrete",
+   "number": "3282/MFFPE/DGEF/DFF",
+   "date": "1991-11-18",
+   "title": "Arrêté n° 3282/MFFPE/DGEF/DFF du 18 novembre 1991 portant protection absolue de l'éléphant sur toute l'étendue de la République du Congo.",
+   "source": "https://faolex.fao.org/docs/pdf/con18128.pdf",
+   "record": "https://faolex.fao.org/en/documents/LEX-FAOC018128/arrete-n-3282-mffpe-dgef-dff-portant-protection-absolue-de-l-cog-1991",
+   "text_layer": "born-digital",
+   "articles": 6
   },
   {
    "id": "arretes/2000/3632-portant-reglementation-des-conditions-d-hygiene",
@@ -2214,6 +2236,39 @@
    "articles": 0
   },
   {
+   "id": "decrets/1976/76-398-fixant-les-modalites-de-gestion-du-fonds-d",
+   "kind": "decret",
+   "number": "76/398",
+   "date": "1976-10-23",
+   "title": "Décret n° 76/398 du 23 octobre 1976 fixant les modalités de gestion du Fonds d'aménagement des ressources naturelles.",
+   "source": "https://faolex.fao.org/docs/pdf/con18119.pdf",
+   "record": "https://faolex.fao.org/en/documents/LEX-FAOC018119/decret-n-76-398-fixant-les-modalites-de-gestion-du-fonds-d-a-cog-1976",
+   "text_layer": "born-digital",
+   "articles": 12
+  },
+  {
+   "id": "decrets/1981/81-564-s-g-g-portant-creation-organisation-et",
+   "kind": "decret",
+   "number": "81/564",
+   "date": "1981-08-29",
+   "title": "Décret n° 81/564 du 29 août 1981 S.G.G. portant création, organisation et fonctionnement de la station de recherche bioécologigue forestière de Dimonika (Stardi).",
+   "source": "https://faolex.fao.org/docs/pdf/con18121.pdf",
+   "record": "https://faolex.fao.org/en/documents/LEX-FAOC018121/decret-n-81-564-s-g-g-portant-creation-organisation-et-fonct-cog-1981",
+   "text_layer": "born-digital",
+   "articles": 13
+  },
+  {
+   "id": "decrets/1982/82-009-portant-institution-du-point-focal-national-du",
+   "kind": "decret",
+   "number": "82/009",
+   "date": "1982-01-08",
+   "title": "Décret n° 82/009 du 8 janvier 1982 portant institution du Point Focal National du Système International de Référence aux sources de renseignement sur l'Environnement (INFOTERRA).",
+   "source": "https://faolex.fao.org/docs/pdf/con18122.pdf",
+   "record": "https://faolex.fao.org/en/documents/LEX-FAOC018122/decret-n-82-009-portant-institution-du-point-focal-national-cog-1982",
+   "text_layer": "born-digital",
+   "articles": 4
+  },
+  {
    "id": "decrets/1982/84-910-portant-application-du-code-forestier",
    "kind": "decret",
    "number": "84/910",
@@ -2223,6 +2278,17 @@
    "record": "https://faolex.fao.org/en/documents/LEX-FAOC018127/decret-n-84-910-portant-application-du-code-forestier-cog-1982",
    "text_layer": "born-digital",
    "articles": 80
+  },
+  {
+   "id": "decrets/1986/86-775-rendant-obligatoires-les-etudes-d-impact-sur-l",
+   "kind": "decret",
+   "number": "86/775",
+   "date": "1986-06-07",
+   "title": "Décret n° 86/775 du 7 juin 1986 rendant obligatoires les études d'impact sur l'environnement en République populaire du Congo.",
+   "source": "https://faolex.fao.org/docs/pdf/con11730.pdf",
+   "record": "https://faolex.fao.org/en/documents/LEX-FAOC011730/decret-n-86-775-rendant-obligatoires-les-etudes-d-impact-sur-cog-1986",
+   "text_layer": "born-digital",
+   "articles": 13
   },
   {
    "id": "decrets/1988/88-181-portant-creation-de-la-reserve-de-la-biosphere-de",
@@ -2245,6 +2311,17 @@
    "record": "https://economie.gouv.cg/sites/default/files/Documentation/Decrets/1990/D%20n%C2%AF90-726%20du%2014%20novembre%201990.PDF",
    "text_layer": "publisher-ocr",
    "articles": 1
+  },
+  {
+   "id": "decrets/1993/93-727-portant-creation-du-parc-national-de-nouabale",
+   "kind": "decret",
+   "number": "93-727",
+   "date": "1993-12-31",
+   "title": "Décret n° 93-727 du 31 décembre 1993 portant creation du parc national de Nouabale-Ndoki dans les régions de la Likouala et de la Sangha.",
+   "source": "https://faolex.fao.org/docs/pdf/con18120.pdf",
+   "record": "https://faolex.fao.org/en/documents/LEX-FAOC018120/decret-n-93-727-portant-creation-du-parc-national-de-nouabal-cog-1993",
+   "text_layer": "born-digital",
+   "articles": 11
   },
   {
    "id": "decrets/1994/94-345-determinant-les-regles-de-fonctionnement-du-fonds",
@@ -4029,6 +4106,17 @@
    "articles": 3
   },
   {
+   "id": "decrets/2012/2012-1160-relatif-aux-attribution-du-ministre-du-tourisme",
+   "kind": "decret",
+   "number": "2012-1160",
+   "date": "2012-11-09",
+   "title": "Décret n° 2012-1160 du 9 novembre 2012 relatif aux attribution du ministre du tourisme et de l'environnement.",
+   "source": "https://faolex.fao.org/docs/pdf/Con178371.pdf",
+   "record": "https://faolex.fao.org/en/documents/LEX-FAOC178371/decret-n-2012-1160-du-9-novembre-2012-relatif-aux-attributio-cog-2012",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
    "id": "decrets/2012/2012-173-portant-composition-et-fonctionnement-du-comite",
    "kind": "decret",
    "number": "2012-173",
@@ -5008,6 +5096,17 @@
    "articles": 5
   },
   {
+   "id": "decrets/2020/2020-60-portant-creation-attributions-et-organisation-d",
+   "kind": "decret",
+   "number": "2020-60",
+   "date": "2020-03-18",
+   "title": "Décret n° 2020-60 du 18 mars 2020 portant création, attributions et organisation d'une Task-Force sur l'impact économique et social du Coronavirus (Covid-19).",
+   "source": "https://faolex.fao.org/docs/pdf/con194366.pdf",
+   "record": "https://faolex.fao.org/en/documents/LEX-FAOC194366/decret-n-2020-60-du-18-mars-2020-portant-creation-attributio-cog-2020",
+   "text_layer": "publisher-ocr",
+   "articles": 6
+  },
+  {
    "id": "decrets/2020/2020-66-portant-creation-attributions-et-organisation-de",
    "kind": "decret",
    "number": "2020-66",
@@ -5534,6 +5633,17 @@
    "record": "https://faolex.fao.org/en/documents/LEX-FAOC004177/loi-n-48-83-definissant-les-conditions-de-la-conservation-et-cog-1983",
    "text_layer": "born-digital",
    "articles": 87
+  },
+  {
+   "id": "lois/1985/028-85-portant-creation-du-centre-d-etude-sur-les",
+   "kind": "loi",
+   "number": "028/85",
+   "date": "1985-07-19",
+   "title": "Loi n° 028/85 du 19 juillet 1985 portant création du Centre d'étude sur les ressources végetales (CERVE).",
+   "source": "https://faolex.fao.org/docs/pdf/con18129.pdf",
+   "record": "https://faolex.fao.org/en/documents/LEX-FAOC018129/loi-n-028-85-portant-creation-du-centre-d-etude-sur-les-ress-cog-1985",
+   "text_layer": "born-digital",
+   "articles": 4
   },
   {
    "id": "lois/1991/003-91-sur-la-protection-de-l-environnement",
@@ -6976,6 +7086,61 @@
    "articles": 9
   },
   {
+   "id": "lois/2019/45-2019-portant-approbation-du-contrat-de-partage-de",
+   "kind": "loi",
+   "number": "45-2019",
+   "date": "2019-12-31",
+   "title": "Loi n° 45-2019 du 31 décembre 2019 portant approbation du contrat de partage de production Marine XX, signé le 17 juillet 2019 entre la République du Congo, la SNPC, la société Total E&P Congo et la société Woodside Energy Limited (Congo)",
+   "source": "https://www.finances.gouv.cg/fr/download/file/fid/5193",
+   "record": "https://www.finances.gouv.cg/fr/download/file/fid/5193",
+   "text_layer": "born-digital",
+   "articles": 32
+  },
+  {
+   "id": "lois/2019/46-2019-portant-approbation-du-contrat-de-partage-de",
+   "kind": "loi",
+   "number": "46-2019",
+   "date": "2019-12-31",
+   "title": "Loi n° 46-2019 du 31 décembre 2019 portant approbation du contrat de partage de production Nsoko II, signé le 17 juillet 2019 entre la République du Congo, la SNPC, la société Total E&P Congo et la société Chevron Overseas Congo Limited",
+   "source": "https://www.finances.gouv.cg/fr/download/file/fid/5194",
+   "record": "https://www.finances.gouv.cg/fr/download/file/fid/5194",
+   "text_layer": "born-digital",
+   "articles": 32
+  },
+  {
+   "id": "lois/2019/47-2019-portant-approbation-du-contrat-de-partage-de",
+   "kind": "loi",
+   "number": "47-2019",
+   "date": "2019-12-31",
+   "title": "Loi n° 47-2019 du 31 décembre 2019 portant approbation du contrat de partage de production Nanga I, signé le 17 juillet 2019 entre la République du Congo, la société nationale des pétroles du Congo et la société Total E&P Congo",
+   "source": "https://www.finances.gouv.cg/fr/download/file/fid/5195",
+   "record": "https://www.finances.gouv.cg/fr/download/file/fid/5195",
+   "text_layer": "born-digital",
+   "articles": 32
+  },
+  {
+   "id": "lois/2019/48-2019-portant-approbation-du-contrat-de-partage-de",
+   "kind": "loi",
+   "number": "48-2019",
+   "date": "2019-12-31",
+   "title": "Loi n° 48-2019 du 31 décembre 2019 portant approbation du contrat de partage de production Mokelembembe, signé le 17 juillet 2019 entre la République du Congo, la société nationale des pétroles du Congo et la société Total E&P Congo",
+   "source": "https://www.finances.gouv.cg/fr/download/file/fid/5196",
+   "record": "https://www.finances.gouv.cg/fr/download/file/fid/5196",
+   "text_layer": "born-digital",
+   "articles": 32
+  },
+  {
+   "id": "lois/2019/49-2019-portant-approbation-de-lavenant-n-6-du-contrat-de",
+   "kind": "loi",
+   "number": "49-2019",
+   "date": "2019-12-31",
+   "title": "Loi n° 49-2019 du 31 décembre 2019 portant approbation de l’avenant n° 6 du contrat de partage de production Haute Mer, signé le 21 avril 1994 entre la République du Congo, la société Elf Congo et « Hydro Congo »",
+   "source": "https://www.finances.gouv.cg/fr/download/file/fid/5197",
+   "record": "https://www.finances.gouv.cg/fr/download/file/fid/5197",
+   "text_layer": "born-digital",
+   "articles": 6
+  },
+  {
    "id": "lois/2019/5-2019-relative-aux-modalites-de-recours-a-la-coercition",
    "kind": "loi",
    "number": "5-2019",
@@ -7007,6 +7172,28 @@
    "record": "https://faolex.fao.org/en/documents/LEX-FAOC240546/loi-n-10-2020-portant-creation-de-la-societe-congolaise-d-in-cog-2020",
    "text_layer": "born-digital",
    "articles": 4
+  },
+  {
+   "id": "lois/2020/16-2020-portant-approbation-du-contrat-de-partage-de",
+   "kind": "loi",
+   "number": "16-2020",
+   "date": "2020-04-28",
+   "title": "Loi n°16-2020 du 28 avril 2020 portant approbation du contrat de partage de production Emeraude II, signé le 9 avril 2020 entre la République du Congo, la société nationale des pétroles du Congo et les sociétés Congorep S.A et Perenco Congo S.A",
+   "source": "https://www.finances.gouv.cg/fr/download/file/fid/5104",
+   "record": "https://www.finances.gouv.cg/fr/download/file/fid/5104",
+   "text_layer": "born-digital",
+   "articles": 32
+  },
+  {
+   "id": "lois/2020/17-2020-portant-approbation-du-contrat-de-partage-de",
+   "kind": "loi",
+   "number": "17-2020",
+   "date": "2020-04-28",
+   "title": "Loi n° 17-2020 du 28 avril 2020 portant approbation du contrat de partage de production Kombi-Likalala- Libondo II, signé le 17 avril 2020 entre la République du Congo, la société nationale des pétroles du Congo et les sociétés Perenco Congo S.A, Petro Congo S.A et Africa Oil & Ga",
+   "source": "https://www.finances.gouv.cg/fr/download/file/fid/5106",
+   "record": "https://www.finances.gouv.cg/fr/download/file/fid/5106",
+   "text_layer": "born-digital",
+   "articles": 32
   },
   {
    "id": "lois/2020/21-2020-determinant-les-conditions-de-mise-en-oeuvre-de",
@@ -7141,6 +7328,17 @@
    "articles": 7
   },
   {
+   "id": "lois/2022/6-2022-autorisant-la-ratification-de-laccord-de-pret",
+   "kind": "loi",
+   "number": "6-2022",
+   "date": "2022-01-26",
+   "title": "Loi n° 6-2022 du 26 janvier 2022 autorisant la ratification de l’accord de prêt entre le Congo et la BDEAC pour le financement partiel du projet d’aménagement de la route Ndendé-Doussala-Dolisie, section Dolisie-Kibangou sur le corridor Libreville-Brazza",
+   "source": "https://www.finances.gouv.cg/fr/download/file/fid/6834",
+   "record": "https://www.finances.gouv.cg/fr/download/file/fid/6834",
+   "text_layer": "born-digital",
+   "articles": 5
+  },
+  {
    "id": "lois/2022/7-2022-portant-approbation-de-la-convention-de",
    "kind": "loi",
    "number": "7-2022",
@@ -7251,6 +7449,17 @@
    "articles": 116
   },
   {
+   "id": "lois/2024/37-2024-portant-reglementation-des-jeux-de-hasard-et",
+   "kind": "loi",
+   "number": "37-2024",
+   "date": "2024-10-11",
+   "title": "Loi n° 37-2024 du 11 octobre 2024 portant réglementation des jeux de hasard et d’argent",
+   "source": "https://www.finances.gouv.cg/fr/download/file/fid/9470",
+   "record": "https://www.finances.gouv.cg/fr/download/file/fid/9470",
+   "text_layer": "born-digital",
+   "articles": 64
+  },
+  {
    "id": "lois/2025/35-2025-portant-creation-de-lagence-nationale-de",
    "kind": "loi",
    "number": "35-2025",
@@ -7348,6 +7557,17 @@
    "record": "https://faolex.fao.org/en/documents/LEX-FAOC240563/ordonnance-n-63-18-du-26-novembre-1963-instituant-le-control-cog-1963",
    "text_layer": "publisher-ocr",
    "articles": 6
+  },
+  {
+   "id": "ordonnances/1970/21-70-relative-a-l-exploration-du-plateau-continental",
+   "kind": "ordonnance",
+   "number": "21-70",
+   "date": "1970-07-14",
+   "title": "Ordonnance n° 21-70 du 14 juillet 1970 relative à l'exploration du plateau continental et à l'exploitation de ses ressources naturelles.",
+   "source": "https://faolex.fao.org/docs/pdf/con4392.pdf",
+   "record": "https://faolex.fao.org/en/documents/LEX-FAOC004392/ordonnance-n-21-70-relative-a-l-exploration-du-plateau-conti-cog-1970",
+   "text_layer": "born-digital",
+   "articles": 24
   }
  ]
 }
