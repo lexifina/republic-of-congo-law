@@ -6658,6 +6658,17 @@
    "articles": 34
   },
   {
+   "id": "lois/2015/11-2015",
+   "kind": "loi",
+   "number": "11-2015",
+   "date": "2015-08-31",
+   "title": "Loi n° 11-2015 du 31 août 2015",
+   "source": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2015/L%20n%C2%AF11-2015%20du%2031%20ao%C3%B1t%202015.pdf",
+   "record": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2015/L%20n%C2%AF11-2015%20du%2031%20ao%C3%B1t%202015.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 8
+  },
+  {
    "id": "lois/2015/20-2015-reglementant-le-systeme-national-de-normalisation",
    "kind": "loi",
    "number": "20-2015",
@@ -6667,6 +6678,50 @@
    "record": "https://faolex.fao.org/en/documents/LEX-FAOC179596/loi-n-20-2015-du-29-octobre-2015-reglementant-le-systeme-nat-cog-2015",
    "text_layer": "publisher-ocr",
    "articles": 51
+  },
+  {
+   "id": "lois/2016/14-2016-portant-approbation-de-la-convention",
+   "kind": "loi",
+   "number": "14-2016",
+   "date": "2016-04-29",
+   "title": "Loi n° 14-2016 du 29 avril 2016 portant approbation de la convention d’exploitation minière relative au gisement de fer du Mont Nabemba entre la République du Congo et la société Congo Iron s.a DESTINATIONS ABONNEMENTS NUMERO Voie aérienne exclusivem",
+   "source": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2016/L%20n%C2%AF14-2016%20du%2029%20avril%202016.pdf",
+   "record": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2016/L%20n%C2%AF14-2016%20du%2029%20avril%202016.pdf",
+   "text_layer": "born-digital",
+   "articles": 3
+  },
+  {
+   "id": "lois/2016/15-2016-portant-approbation-de-la-convention",
+   "kind": "loi",
+   "number": "15-2016",
+   "date": "2016-04-29",
+   "title": "Loi n° 15-2016 du 29 avril 2016 portant approbation de la convention d’exploitation minière relative au gisement de fer de Zanaga entre la République du Congo et les sociétés Mining Project Development Congo et Jumelles Mauritus Limited",
+   "source": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2016/L%20n%C2%AF15-2016%20du%2029%20avril%202016.pdf",
+   "record": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2016/L%20n%C2%AF15-2016%20du%2029%20avril%202016.pdf",
+   "text_layer": "born-digital",
+   "articles": 1
+  },
+  {
+   "id": "lois/2016/2-2016",
+   "kind": "loi",
+   "number": "2-2016",
+   "date": "2016-02-11",
+   "title": "Loi n° 2-2016 du 11 février 2016",
+   "source": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2016/L%20n%C2%AF2-2016%20du%2011%20f%C3%87vrier%202016.pdf",
+   "record": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2016/L%20n%C2%AF2-2016%20du%2011%20f%C3%87vrier%202016.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
+  },
+  {
+   "id": "lois/2016/26-2016",
+   "kind": "loi",
+   "number": "26-2016",
+   "date": "2016-10-10",
+   "title": "Loi n° 26-2016 du 10 octobre 2016",
+   "source": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2016/L%20n%C2%AF26-2016%20du%2010%20octobre%202016.pdf",
+   "record": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2016/L%20n%C2%AF26-2016%20du%2010%20octobre%202016.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 2
   },
   {
    "id": "lois/2016/30-2016-autorisant-la-ratification-de-laccord-de-paris",
@@ -6713,6 +6768,50 @@
    "articles": 21
   },
   {
+   "id": "lois/2017/33-2017",
+   "kind": "loi",
+   "number": "33-2017",
+   "date": "2017-08-14",
+   "title": "Loi n° 33-2017 du 14 août 2017",
+   "source": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2017/L%20n%C2%B033-2017%20du%2014%20ao%C3%BBt%202017.pdf",
+   "record": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2017/L%20n%C2%B033-2017%20du%2014%20ao%C3%BBt%202017.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 8
+  },
+  {
+   "id": "lois/2017/34-2017",
+   "kind": "loi",
+   "number": "34-2017",
+   "date": "2017-08-14",
+   "title": "Loi n° 34-2017 du 14 août 2017",
+   "source": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2017/L%20n%C2%B034-2017%20du%2014%20ao%C3%BBt%202017.pdf",
+   "record": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2017/L%20n%C2%B034-2017%20du%2014%20ao%C3%BBt%202017.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 2
+  },
+  {
+   "id": "lois/2017/35-2017",
+   "kind": "loi",
+   "number": "35-2017",
+   "date": "2017-08-14",
+   "title": "Loi n° 35-2017 du 14 août 2017",
+   "source": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2017/L%20n%C2%B035-2017%20du%2014%20ao%C3%BBt%202017.pdf",
+   "record": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2017/L%20n%C2%B035-2017%20du%2014%20ao%C3%BBt%202017.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 9
+  },
+  {
+   "id": "lois/2017/36-2017",
+   "kind": "loi",
+   "number": "36-2017",
+   "date": "2017-10-03",
+   "title": "Loi n° 36-2017 du 3 octobre 2017",
+   "source": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2017/L%20n%C2%B036-2017%20du%203%20octobre%202017.pdf",
+   "record": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2017/L%20n%C2%B036-2017%20du%203%20octobre%202017.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 81
+  },
+  {
    "id": "lois/2018/14-2018-determinant-lorganisation-la-composition-et-le",
    "kind": "loi",
    "number": "14-2018",
@@ -6746,6 +6845,50 @@
    "articles": 3
   },
   {
+   "id": "lois/2019/10-2019",
+   "kind": "loi",
+   "number": "10-2019",
+   "date": "2019-04-09",
+   "title": "Loi n° 10-2019 du 9 avril 2019",
+   "source": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2019/L%20n%C2%B010-2019%20du%209%20avril%202019.pdf",
+   "record": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2019/L%20n%C2%B010-2019%20du%209%20avril%202019.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 2
+  },
+  {
+   "id": "lois/2019/13-2019",
+   "kind": "loi",
+   "number": "13-2019",
+   "date": "2019-05-17",
+   "title": "Loi n° 13-2019 du 17 mai 2019",
+   "source": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2019/L%20n%C2%B013-2019%20du%2017%20mai%202019.pdf",
+   "record": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2019/L%20n%C2%B013-2019%20du%2017%20mai%202019.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 2
+  },
+  {
+   "id": "lois/2019/18-2019",
+   "kind": "loi",
+   "number": "18-2019",
+   "date": "2019-05-24",
+   "title": "Loi n° 18-2019 du 24 mai 2019",
+   "source": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2019/L%20n%C2%B018-2019%20du%2024%20mai%202019.pdf",
+   "record": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2019/L%20n%C2%B018-2019%20du%2024%20mai%202019.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 12
+  },
+  {
+   "id": "lois/2019/2-2019",
+   "kind": "loi",
+   "number": "2-2019",
+   "date": "2019-02-07",
+   "title": "Loi n° 2-2019 du 7 février 2019",
+   "source": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2019/L%20n%C2%B02-2019%20du%207%20f%C3%A9vrier%202019.pdf",
+   "record": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2019/L%20n%C2%B02-2019%20du%207%20f%C3%A9vrier%202019.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 25
+  },
+  {
    "id": "lois/2019/24-2019-portant-creation-du-port-autonome-doyo",
    "kind": "loi",
    "number": "24-2019",
@@ -6757,6 +6900,28 @@
    "articles": 9
   },
   {
+   "id": "lois/2019/26-2019",
+   "kind": "loi",
+   "number": "26-2019",
+   "date": "2019-09-19",
+   "title": "Loi n° 26-2019 du 19 septembre 2019",
+   "source": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2019/L%20n%C2%B026-2019%20du%2019%20septembre%202019.pdf",
+   "record": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2019/L%20n%C2%B026-2019%20du%2019%20septembre%202019.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 16
+  },
+  {
+   "id": "lois/2019/27-2019",
+   "kind": "loi",
+   "number": "27-2019",
+   "date": "2019-09-19",
+   "title": "Loi n° 27-2019 du 19 septembre 2019",
+   "source": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2019/L%20n%C2%B027-2019%20du%2019%20septembre%202019.pdf",
+   "record": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2019/L%20n%C2%B027-2019%20du%2019%20septembre%202019.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 8
+  },
+  {
    "id": "lois/2019/29-2019-portant-protection-des-donnees-a-caractere-personnel",
    "kind": "loi",
    "number": "29-2019",
@@ -6765,6 +6930,17 @@
    "source": "https://sgg.cg/JO/2019/congo-jo-2019-45.pdf",
    "text_layer": "born-digital",
    "articles": 101
+  },
+  {
+   "id": "lois/2019/32-2019",
+   "kind": "loi",
+   "number": "32-2019",
+   "date": "2019-10-10",
+   "title": "Loi n° 32-2019 du 10 octobre 2019",
+   "source": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2019/L%20n%C2%B032-2019%20du%2010%20octobre%202019.pdf",
+   "record": "https://economie.gouv.cg/sites/default/files/Documentation/Lois/2019/L%20n%C2%B032-2019%20du%2010%20octobre%202019.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
   },
   {
    "id": "lois/2019/36-2019-portant-creation-de-lautorite-de-regulation-des",
