@@ -11,9 +11,9 @@ Le droit de la République du Congo (Brazzaville) sous la forme d’un historiqu
 
 Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de tous les pays : il s’agit ici du droit national de la République du Congo, que global-law lit sous `republic-of-congo/national/acts/`.
 
-**Contenu actuel :** deux textes, en trois versions : la Constitution du 25 octobre 2015 (le préambule et 246 articles) telle que promulguée, puis avec l’article 157, relatif à l’état d’urgence et à l’état de siège, tel que remplacé par la Loi constitutionnelle n° 2-2022 du 7 janvier 2022 ; et la Loi n° 29-2019 du 10 octobre 2019 portant protection des données à caractère personnel (101 articles), telle qu’adoptée. Le `README.md` de chaque texte ([`constitution/README.md`](constitution/README.md)) liste chaque disposition, le nombre de ses modifications et leurs dates ; [`data/laws.csv`](data/laws.csv) liste les lois à l’origine des commits.
+**Contenu actuel :** la Constitution, le Code pénal (état de 1998), et des lois, ordonnances, décrets et arrêtés tirés de FAOLEX, des archives du site du ministère de l’Économie et du site de la Cour constitutionnelle, chacun en une version (voir [`corpus.json`](corpus.json)). Les premiers textes repris du Journal officiel sont deux textes, en trois versions : la Constitution du 25 octobre 2015 (le préambule et 246 articles) telle que promulguée, puis avec l’article 157, relatif à l’état d’urgence et à l’état de siège, tel que remplacé par la Loi constitutionnelle n° 2-2022 du 7 janvier 2022 ; et la Loi n° 29-2019 du 10 octobre 2019 portant protection des données à caractère personnel (101 articles), telle qu’adoptée. Le `README.md` de chaque texte ([`constitution/README.md`](constitution/README.md)) liste chaque disposition, le nombre de ses modifications et leurs dates ; [`data/laws.csv`](data/laws.csv) liste les lois à l’origine des commits.
 
-Chaque texte est un dossier (`constitution/`, `donnees-personnelles/`) avec un fichier par article : `constitution/art-157.md` est l’article 157 de la Constitution, et `constitution/preambule.md` son préambule.
+Chaque texte est un dossier rangé par nature et par année (`constitution/`, `codes/<code>/`, `lois/<année>/<numéro>-<objet>/`, `ordonnances/`, `decrets/`, `arretes/`, voir [`STRUCTURE.md`](STRUCTURE.md)) avec un fichier par article : `constitution/art-157.md` est l’article 157 de la Constitution, et `constitution/preambule.md` son préambule.
 
 Le texte est en français, tel que l’imprime le Journal officiel. Une traduction anglaise ne fait pas partie de ce corpus.
 
@@ -26,7 +26,7 @@ Le texte est en français, tel que l’imprime le Journal officiel. Une traducti
 | Toutes les versions de l’article 157, avec la date d’entrée en vigueur de chacune | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- constitution/art-157.md` |
 | L’article 157 tel qu’en vigueur au 1er janvier 2020 | `python tools/on.py 2020-01-01 constitution 157` |
 
-Chaque version porte aussi une étiquette par texte et par date (`constitution/2015-11-06`, `constitution/2022-01-10`, `donnees-personnelles/2019-11-07`).
+Chaque version porte aussi une étiquette par texte et par date (`constitution/2015-11-06`, `constitution/2022-01-10`, `donnees-personnelles/2019-11-07`, ce dernier dossier étant devenu `lois/2019/29-2019-portant-protection-des-donnees-a-caractere-personnel/`).
 
 **En dehors de git**, nous hébergeons aussi ce corpus publiquement, gratuitement :
 
@@ -53,6 +53,7 @@ Chaque commit est daté à midi, heure Africa/Brazzaville, du jour où la versio
 
 - la Constitution : le 6 novembre 2015, date de sa promulgation (art. 246 : en vigueur « dès sa promulgation »), publiée au Journal officiel édition spéciale n° 8 du même jour ;
 - la Loi n° 29-2019 et la Loi constitutionnelle n° 2-2022 ne fixent aucune date propre ; chacune est donc datée de son numéro du Journal officiel : le n° 45 du 7 novembre 2019 et l’édition spéciale n° 1 du 10 janvier 2022 (aucun texte général sur l’entrée en vigueur des lois n’a été trouvé sur le site du SGG) ;
+- les textes tirés de FAOLEX, des archives du ministère de l’Économie, de WIPO Lex et du site de la Cour constitutionnelle sont datés du jour de leur promulgation ou signature, d’après leur intitulé (à défaut, la date du texte donnée par la fiche FAOLEX) : ces sources ne donnent pas le numéro du Journal officiel ; le trailer `In-force-basis:` le dit. Le Code pénal est daté du 31 octobre 1998, date de mise à jour du recueil « Codes d’audience » du ministère de la Justice : c’est un état du texte à cette date ;
 - les délais que la Loi n° 29-2019 (art. 100) accorde aux traitements existants pour se mettre en conformité ne sont pas des dates d’entrée en vigueur et ne modifient pas sa date.
 
 Chaque modification est attribuée à la loi qui l’a opérée (`Loi constitutionnelle n° 2-2022`), et la première version de chaque texte au texte lui-même (`Constitution du 25 octobre 2015`, adoptée par référendum) ; le committer est toujours Lexifina.
@@ -66,7 +67,7 @@ Chaque modification est attribuée à la loi qui l’a opérée (`Loi constituti
 
 ## Ce qu’il ne montre pas
 
-- **La plupart des autres textes.** Les autres codes et lois n’y figurent pas encore. Le Code pénal n’a pas de texte ici : le SGG le présente comme le code français rendu applicable par l’arrêté du 13 février 1882, non publié au Journal officiel ; la copie du Code de la famille (1984) proposée par le SGG est une numérisation, et les numérisations ne sont pas transcrites.
+- **De nombreux textes.** Le site du SGG (sgg.cg), qui porte le Journal officiel, n’est plus utilisé : ses mentions légales interdisent toute reproduction sans autorisation préalable et expresse. Le Code de procédure pénale, le Code de la famille et le Code du travail n’ont pas encore de texte ici (aucune copie dotée d’une couche texte hors de sgg.cg) ; les numérisations sans couche texte ne sont pas transcrites.
 - **Les versions consolidées.** La République du Congo ne publie aucune consolidation officielle datée ; une version n’existe donc ici que lorsqu’une loi publiée au Journal officiel a modifié le texte.
 - **Les modalités d’application d’une disposition** : les conditions d’entrée en vigueur, les délais de mise en conformité et les dispositions transitoires ne sont pas codés ; le texte affiché à une date peut ne pas constituer l’intégralité du droit alors applicable.
 - **Les intitulés.** Les intitulés des titres, sous-titres et chapitres ne figurent pas dans les fichiers ; chaque fichier est le préambule ou un article.
@@ -76,6 +77,10 @@ Chaque modification est attribuée à la loi qui l’a opérée (`Loi constituti
 | Source | Nature | Versions antérieures | Remarques |
 | --- | --- | --- | --- |
 | [Journal officiel de la République du Congo](https://sgg.cg) (Secrétariat général du Gouvernement) | Le journal officiel, en PDF dotés d’une couche texte | chaque numéro tel que publié | La Constitution (JO édition spéciale n° 8 du 6 novembre 2015), la Loi n° 29-2019 (JO n° 45 du 7 novembre 2019) et la Loi constitutionnelle n° 2-2022 (JO édition spéciale n° 1 du 10 janvier 2022) |
+| [FAOLEX](https://faolex.fao.org/) (FAO) | Base de données législative ; PDF repris tels quels, souvent avec la couche texte de l’éditeur | une version par texte | Copie secondaire (`Source-status`) ; lois, ordonnances, décrets, arrêtés ; le Code pénal (recueil « Codes d’audience », ministère de la Justice, 1998) |
+| Ministère de l’Économie, bibliothèque « Documentation » (economie.gouv.cg) | Lois, décrets, ordonnances et arrêtés en PDF | une version par texte | Le site ne répond plus : copies de l’Internet Archive (Wayback Machine), marquées copie secondaire |
+| [Cour constitutionnelle](https://cour-constitutionnelle.cg) | Lois relatives à la Cour, en PDF natifs | une version par texte | Site officiel |
+| [WIPO Lex](https://www.wipo.int/wipolex/) (OMPI) | Lois de propriété intellectuelle et d’investissement, en PDF | une version par texte | Copie secondaire |
 
 ## Licence
 

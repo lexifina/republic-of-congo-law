@@ -11,9 +11,9 @@ The law of the Republic of the Congo (Brazzaville) as a git history: one file pe
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the Republic of the Congo's national law, which global-law reads at `republic-of-congo/national/acts/`.
 
-**What is in it now:** two acts, with three versions: the Constitution of 25 October 2015 (the preamble and 246 articles) as promulgated, and with Article 157, on the state of emergency and the state of siege, as replaced by Loi constitutionnelle n° 2-2022 of 7 January 2022; and Loi n° 29-2019 of 10 October 2019 on the protection of personal data (101 articles), as enacted. Each act's `README.md` ([`constitution/README.md`](constitution/README.md)) lists every provision, how often it changed and when; [`data/laws.csv`](data/laws.csv) lists the laws behind the commits.
+**What is in it now:** the Constitution, the Code pénal (as at 1998), and laws, ordinances, decrees and arrêtés from FAOLEX, the archived library of the Ministry of the Economy and the Constitutional Court’s site, one version each (see [`corpus.json`](corpus.json)). The first acts, from the Journal officiel, are two acts in three versions: the Constitution of 25 October 2015 (the preamble and 246 articles) as promulgated, and with Article 157, on the state of emergency and the state of siege, as replaced by Loi constitutionnelle n° 2-2022 of 7 January 2022; and Loi n° 29-2019 of 10 October 2019 on the protection of personal data (101 articles), as enacted. Each act's `README.md` ([`constitution/README.md`](constitution/README.md)) lists every provision, how often it changed and when; [`data/laws.csv`](data/laws.csv) lists the laws behind the commits.
 
-Each act is a folder (`constitution/`, `donnees-personnelles/`) with one file per article: `constitution/art-157.md` is Article 157 of the Constitution, and `constitution/preambule.md` its preamble.
+Each act is a folder by type and year (`constitution/`, `codes/<code>/`, `lois/<année>/<number>-<object>/`, `ordonnances/`, `decrets/`, `arretes/`; see [`STRUCTURE.md`](STRUCTURE.md)) with one file per article: `constitution/art-157.md` is Article 157 of the Constitution, and `constitution/preambule.md` its preamble.
 
 The text is in French, as the Journal officiel prints it. An English translation is not part of this record.
 
@@ -26,7 +26,7 @@ The text is in French, as the Journal officiel prints it. An English translation
 | Every version of Article 157, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- constitution/art-157.md` |
 | Article 157 as in force on 1 January 2020 | `python tools/on.py 2020-01-01 constitution 157` |
 
-Each version is also tagged by act and day (`constitution/2015-11-06`, `constitution/2022-01-10`, `donnees-personnelles/2019-11-07`).
+Each version is also tagged by act and day (`constitution/2015-11-06`, `constitution/2022-01-10`, `donnees-personnelles/2019-11-07`, that folder now being `lois/2019/29-2019-portant-protection-des-donnees-a-caractere-personnel/`).
 
 **Outside git**, we also host this record publicly, for free:
 
@@ -53,6 +53,7 @@ Each commit is dated at noon, Africa/Brazzaville, on the day the version took ef
 
 - the Constitution: 6 November 2015, its promulgation (art. 246: in force "dès sa promulgation"), printed in the Journal officiel édition spéciale n° 8 of that day;
 - Loi n° 29-2019 and Loi constitutionnelle n° 2-2022 name no day of their own, so each is dated by its Journal officiel issue: n° 45 of 7 November 2019 and édition spéciale n° 1 of 10 January 2022 (no general statute on when laws take effect was found on the SGG's site);
+- acts from FAOLEX, the Ministry of the Economy archive, WIPO Lex and the Constitutional Court site are dated on the day of their promulgation or signature, from their title (failing that, the date of the text in the FAOLEX record): these sources do not give the Journal officiel issue, and the `In-force-basis:` trailer says so. The Code pénal is dated 31 October 1998, the day the Ministry of Justice’s “Codes d’audience” collection was brought up to date: it is the text as it stood then;
 - the periods that Loi n° 29-2019 (art. 100) gives existing processing to comply are not commencement dates and do not change its date.
 
 Each change is credited to the law that made it (`Loi constitutionnelle n° 2-2022`), and each act's first version to the act itself (`Constitution du 25 octobre 2015`, adopted by referendum); the committer is always Lexifina.
@@ -66,7 +67,7 @@ Each change is credited to the law that made it (`Loi constitutionnelle n° 2-20
 
 ## What it does not show
 
-- **Most other law.** Other codes and laws are not yet included. The Code pénal has no text here: the SGG lists it as the French code applied by the arrêté of 13 February 1882, not published in the Journal officiel; the SGG's copy of the Code de la famille (1984) is a scan, and scans are not transcribed.
+- **Much other law.** The SGG site (sgg.cg), which carries the Journal officiel, is no longer used: its legal notice forbids any reproduction without prior express authorisation. The Code de procédure pénale, the Code de la famille and the Code du travail have no text here yet (no copy with a text layer outside sgg.cg); scans without a text layer are not transcribed.
 - **Consolidated versions.** The Republic of the Congo publishes no official dated consolidations, so a version exists here only where a law in the Journal officiel changed the text.
 - **How a provision applies**: commencement conditions, compliance periods and transitional rules are not encoded; the text shown on a day may not be the whole law that applied.
 - **Headings.** Title, sub-title and chapter headings are not in the files; each file is the preamble or one article.
@@ -76,6 +77,10 @@ Each change is credited to the law that made it (`Loi constitutionnelle n° 2-20
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
 | [Journal officiel de la République du Congo](https://sgg.cg) (Secrétariat général du Gouvernement) | The official gazette, as PDFs with a text layer | each issue as published | The Constitution (JO édition spéciale n° 8 of 6 November 2015), Loi n° 29-2019 (JO n° 45 of 7 November 2019) and Loi constitutionnelle n° 2-2022 (JO édition spéciale n° 1 of 10 January 2022) |
+| [FAOLEX](https://faolex.fao.org/) (FAO) | Legislation database; PDFs as published, often with the publisher's text layer | one version per act | Secondary copy (`Source-status`); laws, ordinances, decrees, arrêtés; the Code pénal (the Ministry of Justice's "Codes d'audience", 1998) |
+| Ministry of the Economy, "Documentation" library (economie.gouv.cg) | Laws, decrees, ordinances and arrêtés as PDFs | one version per act | The site no longer answers: Internet Archive (Wayback Machine) copies, tagged secondary copy |
+| [Cour constitutionnelle](https://cour-constitutionnelle.cg) | Laws on the Court, born-digital PDFs | one version per act | Official site |
+| [WIPO Lex](https://www.wipo.int/wipolex/) (WIPO) | Intellectual property and investment laws, as PDFs | one version per act | Secondary copy |
 
 ## Licence
 

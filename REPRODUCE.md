@@ -63,6 +63,33 @@ No second build of this corpus has been compared yet.
 - Code pénal not built: SGG lists the Code pénal du Congo as the French code applied by arrêté of 13 February 1882, not published in the JO and with no text on sgg.cg; amendments are scattered ordinances (e.g. Ord. 62-13). Skipped under the 45-minute rule.
 - Code de la famille (1984) not built: the SGG PDF is a scan with no text layer (no OCR by rule).
 
+## Added 2026-11-27: more sources, type/year layout
+
+- Layout: one pure-rename commit moved `donnees-personnelles/` to
+  `lois/2019/29-2019-portant-protection-des-donnees-a-caractere-personnel/`; new acts go under `lois/`, `ordonnances/`,
+  `decrets/`, `arretes/` by year, and `codes/<code>/` (see `STRUCTURE.md`). `corpus.json` lists the acts
+  (`cg/national/acts`).
+- Sources: FAOLEX records for Congo (record URLs from FAOLEX's public sitemaps `faolex.fao.org/sitemaps/documents-*.xml`,
+  slugs ending `-cog-<year>`; the record's own JSON gives the PDF and the date of the text); the Internet Archive copies of
+  economie.gouv.cg/sites/default/files/Documentation/ (CDX listing; the host times out, so the dead-site rule applies);
+  WIPO Lex profile CG; PDFs on cour-constitutionnelle.cg (its public `/api/documents` listing).
+- sgg.cg is not used any more: its legal notice requires prior express authorisation for any reproduction (decision
+  recorded 2026-11-27; the three acts already taken from its Journal officiel stay).
+- Text: the PDF's own text layer (PyMuPDF), one file per article, visas in `visas.md`, signatures in `signatures.md`.
+  No OCR of our own: PDFs with fewer than 250 characters a page, or whose layer reads badly (fewer than 90% clean
+  words), are held. Layers a publisher laid over a scan are tagged `Text-source: publisher OCR`; they are not proofread.
+- Dates: the day of the text in its title (promulgation/signature), noon Africa/Brazzaville, with `In-force` and
+  `In-force-basis` trailers; failing a date in the title, the FAOLEX record's full `date_of_text`. Texts whose title and
+  FAOLEX date disagree by more than 400 days, or with no full date, are held. Before 1970: committed at 1970-01-01 with
+  the real day in the subject and `In-force`.
+- Code pénal: FAOLEX record LEX-FAOC244284, the Ministry of Justice's "Codes d'audience" (Giraf), brought up to date on
+  31 October 1998 (FAOLEX `date_of_consolidation`): one as-at version dated that day; the layer is the scanner's OCR
+  (`Text-source: publisher OCR`), held to a lower 80% clean-word floor and not proofread.
+- Duplicates: one act per kind and number (arrêtés: per number and year); the first source in the order Cour
+  constitutionnelle / WIPO Lex, FAOLEX, economie.gouv.cg wins.
+- Runner: `scripts/republic-of-congo-law/runner/cg_build.py` (detached, below-normal priority, about one request a second
+  per host, back-off on timeouts and 5xx, stop on 403/429/challenge).
+
 ## What AI did and did not do
 
 The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
