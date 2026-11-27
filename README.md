@@ -81,6 +81,10 @@ Chaque modification est attribuée à la loi qui l’a opérée (`Loi constituti
 | Ministère de l’Économie, bibliothèque « Documentation » (economie.gouv.cg) | Lois, décrets, ordonnances et arrêtés en PDF | une version par texte | Le site ne répond plus : copies de l’Internet Archive (Wayback Machine), marquées copie secondaire |
 | [Cour constitutionnelle](https://cour-constitutionnelle.cg) | Lois relatives à la Cour, en PDF natifs | une version par texte | Site officiel |
 | [WIPO Lex](https://www.wipo.int/wipolex/) (OMPI) | Lois de propriété intellectuelle et d’investissement, en PDF | une version par texte | Copie secondaire |
+| [Ministère des Finances](https://www.finances.gouv.cg/fr/documentation), bibliothèque « Documentation » | Lois, ordonnances, décrets et arrêtés en PDF, et actes CEMAC | une version par texte | Site officiel ; actes CEMAC marqués copie secondaire |
+| Sites ministériels (hydrocarbures.gouv.cg, primature.gouv.cg, sante.gouv.cg, gouvernement.cg) | Lois et décrets en PDF | une version par texte | Sites officiels |
+| Assemblée nationale, ministère du Budget, ministère du Commerce | Lois, décrets et arrêtés en PDF | une version par texte | Fichiers qui ne sont plus servis : copies de l’Internet Archive, marquées copie secondaire |
+| [Commission de la CEMAC](https://cemac.int/reglements-directives/) | Règlements, directives et actes additionnels (`cemac/`) | une version par texte | Droit communautaire applicable au Congo ; copie secondaire |
 
 ## Licence
 

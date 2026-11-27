@@ -81,6 +81,10 @@ Each change is credited to the law that made it (`Loi constitutionnelle n° 2-20
 | Ministry of the Economy, "Documentation" library (economie.gouv.cg) | Laws, decrees, ordinances and arrêtés as PDFs | one version per act | The site no longer answers: Internet Archive (Wayback Machine) copies, tagged secondary copy |
 | [Cour constitutionnelle](https://cour-constitutionnelle.cg) | Laws on the Court, born-digital PDFs | one version per act | Official site |
 | [WIPO Lex](https://www.wipo.int/wipolex/) (WIPO) | Intellectual property and investment laws, as PDFs | one version per act | Secondary copy |
+| [Ministry of Finance](https://www.finances.gouv.cg/fr/documentation), "Documentation" library | Laws, ordinances, decrees and arrêtés as PDFs, and CEMAC acts | one version per act | Official site; CEMAC acts tagged secondary copy |
+| Ministry sites (hydrocarbures.gouv.cg, primature.gouv.cg, sante.gouv.cg, gouvernement.cg) | Laws and decrees as PDFs | one version per act | Official sites |
+| National Assembly, Ministry of the Budget, Ministry of Trade | Laws, decrees and arrêtés as PDFs | one version per act | Files no longer served: Internet Archive copies, tagged secondary copy |
+| [CEMAC Commission](https://cemac.int/reglements-directives/) | Regulations, directives and additional acts (`cemac/`) | one version per act | Community law applicable in the Congo; secondary copy |
 
 ## Licence
 

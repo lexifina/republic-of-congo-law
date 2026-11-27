@@ -73,6 +73,15 @@ No second build of this corpus has been compared yet.
   slugs ending `-cog-<year>`; the record's own JSON gives the PDF and the date of the text); the Internet Archive copies of
   economie.gouv.cg/sites/default/files/Documentation/ (CDX listing; the host times out, so the dead-site rule applies);
   WIPO Lex profile CG; PDFs on cour-constitutionnelle.cg (its public `/api/documents` listing).
+- Added 2026-11-27 (runner `cg_build.py`, `web_items` / `cemac_items`): the finances.gouv.cg documentation listing
+  (`/fr/documentation?term_node_tid_depth=<category>`, categories Lois, Décrets, Arrêtés, Ordonnances, Directives,
+  Règlements; title from the listing, or from page 1 when the listing gives no number/date); PDFs listed by the
+  Internet Archive CDX index for finances.gouv.cg and sante.gouv.cg (fetched live), and for assemblee-nationale.cg,
+  budget.gouv.cg and commerce.gouv.cg (fetched from the Wayback copy: the files are no longer served); the WordPress
+  media lists (`/wp-json/wp/v2/media?mime_type=application/pdf`) of hydrocarbures.gouv.cg, primature.gouv.cg,
+  gouvernement.cg and cemac.int. Title from the file name or page 1 (the file name wins when they disagree).
+  CEMAC acts go under `cemac/reglements|directives|actes-additionnels/<year>/`, dated on the day in their title.
+  Nominations and individual decisions are not taken; scans without a text layer are held (no OCR).
 - sgg.cg is not used any more: its legal notice requires prior express authorisation for any reproduction (decision
   recorded 2026-11-27; the three acts already taken from its Journal officiel stay).
 - Text: the PDF's own text layer (PyMuPDF), one file per article, visas in `visas.md`, signatures in `signatures.md`.

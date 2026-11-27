@@ -10,6 +10,7 @@ Le dépôt range chaque texte par nature puis par année, sous des noms en fran�
 | `ordonnances/<année>/<numéro>-<objet>/` | Les ordonnances |
 | `decrets/<année>/<numéro>-<objet>/` | Les décrets |
 | `arretes/<année>/<numéro>-<objet>/` | Les arrêtés (les numéros recommencent chaque année et par ministère) |
+| `cemac/reglements/`, `cemac/directives/`, `cemac/actes-additionnels/` (`<année>/<numéro>-<objet>/`) | Le droit communautaire CEMAC applicable au Congo |
 
 Dans chaque dossier de texte : `README.md` (titre, source, date, couche texte), `visas.md`, un fichier par article
 (`art-001.md` pour l'article premier, `art-012-bis.md`), `signatures.md`, ou `texte-integral.md` quand aucun article
@@ -22,5 +23,5 @@ n'est repéré. Aucun dossier ne compte plus de 1 000 entrées.
 
 Each act is filed by type, then year, under French names: `constitution/`, `codes/<code>/`,
 `lois/<year>/<number>-<object>/`, `ordonnances/`, `decrets/`, `arretes/` (arrêté numbers restart each year and per
-ministry). In each act folder: `README.md`, `visas.md`, one file per article, `signatures.md`, or `texte-integral.md`
+ministry), and CEMAC community acts under `cemac/`. In each act folder: `README.md`, `visas.md`, one file per article, `signatures.md`, or `texte-integral.md`
 when no article was found. No folder holds more than 1,000 entries.
